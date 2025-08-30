@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<organisation xmlns="http://cpee.org/ns/organisation/1.0">
+    
+    <units>
+    <unit id="3DPrinterAG">
+      <permissions/>
+    </unit>
+    <unit id="creative">
+      <parent>3DPrinterAG</parent>
+      <permissions/>
+    </unit>
+    <unit id="production">
+      <parent>3DPrinterAG</parent>
+      <permissions/>
+    </unit>
+    <unit id="artdesign">
+      <parent>creative</parent>
+      <permissions/>
+    </unit>
+    <unit id="3Dprinting">
+      <parent>production</parent>
+      <permissions/>
+    </unit>
+  </units>
+
+  <roles>
+    <role id="CEO">
+      <permissions/>
+    </role>
+    <role id="artist">
+      <permissions/>
+    </role>
+    <role id="worker">
+      <permissions/>
+    </role>
+    <role id="clerk">
+      <permissions/>
+    </role>
+      <role id="shopper">
+      <permissions/>
+    </role>
+      <role id="quality-mgmt">
+      <permissions/>
+    </role>
+  </roles>
+
+  <subjects>
+    <subject id="Thomas">
+      <relation unit="3DPrinterAG" role="CEO"/>
+    </subject>
+
+    <subject id="Felix">
+      <relation unit="creative" role="artist"/>
+    </subject>
+
+    <subject id="Claudia">
+      <relation unit="production" role="worker"/>
+    </subject>
+
+    <subject id="Gitti">
+      <relation unit="artdesign" role="clerk"/>
+    </subject>
+
+    <subject id="Mike">
+      <relation unit="3Dprinting" role="worker"/>
+    </subject>
+
+    <subject id="Susi">
+      <relation unit="artdesign" role="clerk"/>
+    </subject>
+  </subjects> 
+
+</organisation>

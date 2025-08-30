@@ -1,0 +1,673 @@
+<testset xmlns="http://cpee.org/ns/properties/2.0">
+  <executionhandler>ruby</executionhandler>
+  <dataelements>
+    <email_recipient>lukas.sorer@gmail.com</email_recipient>
+  </dataelements>
+  <endpoints>
+    <items>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/worklist/items.php</items>
+    <timeout>http://cpee.org/services/timeout.php</timeout>
+    <sketch>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/automatic/sketch.php</sketch>
+    <subprocess>https-post://cpee.org/flow/start/url/</subprocess>
+    <draft>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/automatic/draft.php</draft>
+    <send>https-post://cpee.org/ing/correlators/message/send/</send>
+    <email>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/automatic/email_uni.php</email>
+    <receive>https-get://cpee.org/ing/correlators/message/receive/</receive>
+    <colorLeft>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/automatic/colorLeft.php</colorLeft>
+    <user>https-post://cpee.org/services/timeout-user.php</user>
+    <auto>https-post://cpee.org/services/timeout-auto.php</auto>
+    <shoppingList>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/automatic/shoppingList.php</shoppingList>
+    <gcode>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/automatic/gcode.php</gcode>
+    <printer>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/automatic/3Dprinter.php</printer>
+  </endpoints>
+  <attributes>
+    <info>a01250600</info>
+    <modeltype>CPEE</modeltype>
+    <theme>preset</theme>
+  </attributes>
+  <description>
+    <description xmlns="http://cpee.org/ns/description/1.0">
+      <manipulate id="a1" label="Helperscript for sketch">data.sketch0 = ['Mouse','Cat','Dog'].sample</manipulate>
+      <call id="a2" endpoint="sketch">
+        <parameters>
+          <label>Send sketches to artist</label>
+          <method>:post</method>
+          <arguments>
+            <sketch>!data.sketch0</sketch>
+          </arguments>
+        </parameters>
+        <code>
+          <prepare/>
+          <finalize output="result">data.sketchPic = result['sketchPic']</finalize>
+          <update output="result"/>
+          <rescue output="result"/>
+        </code>
+        <annotations>
+          <_timing>
+            <_timing_weight/>
+            <_timing_avg/>
+            <explanations/>
+          </_timing>
+          <_context_data_analysis>
+            <probes/>
+            <ips/>
+          </_context_data_analysis>
+          <report>
+            <url/>
+          </report>
+          <_notes>
+            <_notes_general/>
+          </_notes>
+        </annotations>
+        <documentation>
+          <input/>
+          <output/>
+          <implementation>
+            <description/>
+          </implementation>
+          <code>
+            <description/>
+          </code>
+        </documentation>
+      </call>
+      <call id="a7" endpoint="draft">
+        <parameters>
+          <label>Receive 3D model draft</label>
+          <method>:get</method>
+          <arguments>
+            <sketch>!data.sketch0</sketch>
+          </arguments>
+        </parameters>
+        <code>
+          <prepare/>
+          <finalize output="result">data.draft = result['draft']; data.happy = false</finalize>
+          <update output="result"/>
+          <rescue output="result"/>
+        </code>
+        <annotations>
+          <_timing>
+            <_timing_weight/>
+            <_timing_avg/>
+            <explanations/>
+          </_timing>
+          <_context_data_analysis>
+            <probes/>
+            <ips/>
+          </_context_data_analysis>
+          <report>
+            <url/>
+          </report>
+          <_notes>
+            <_notes_general/>
+          </_notes>
+        </annotations>
+        <documentation>
+          <input/>
+          <output/>
+          <implementation>
+            <description/>
+          </implementation>
+          <code>
+            <description/>
+          </code>
+        </documentation>
+      </call>
+      <loop mode="pre_test" condition="data.happy == false">
+        <call id="a9" endpoint="items">
+          <parameters>
+            <label>Tell artist what to change</label>
+            <method>:post</method>
+            <arguments>
+              <taskname>tell what to change</taskname>
+              <link>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/manual/feedback.html</link>
+              <role>clerk</role>
+            </arguments>
+          </parameters>
+          <code>
+            <prepare/>
+            <finalize output="result">data.change_request = result['feedback']</finalize>
+            <update output="result"/>
+            <rescue output="result"/>
+          </code>
+          <annotations>
+            <_timing>
+              <_timing_weight/>
+              <_timing_avg/>
+              <explanations/>
+            </_timing>
+            <_context_data_analysis>
+              <probes/>
+              <ips/>
+            </_context_data_analysis>
+            <report>
+              <url/>
+            </report>
+            <_notes>
+              <_notes_general/>
+            </_notes>
+          </annotations>
+          <documentation>
+            <input/>
+            <output/>
+            <implementation>
+              <description/>
+            </implementation>
+            <code>
+              <description/>
+            </code>
+          </documentation>
+        </call>
+        <call id="a8" endpoint="items">
+          <parameters>
+            <label>Decide if you accept the model draft</label>
+            <method>:post</method>
+            <arguments>
+              <taskname>decide on acceptance</taskname>
+              <link>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/manual/acceptDraft.html</link>
+              <role>clerk</role>
+            </arguments>
+          </parameters>
+          <code>
+            <prepare/>
+            <finalize output="result">data.happy = result['acceptance']</finalize>
+            <update output="result"/>
+            <rescue output="result"/>
+          </code>
+          <annotations>
+            <_timing>
+              <_timing_weight/>
+              <_timing_avg/>
+              <explanations/>
+            </_timing>
+            <_context_data_analysis>
+              <probes/>
+              <ips/>
+            </_context_data_analysis>
+            <report>
+              <url/>
+            </report>
+            <_notes>
+              <_notes_general/>
+            </_notes>
+          </annotations>
+          <documentation>
+            <input/>
+            <output/>
+            <implementation>
+              <description/>
+            </implementation>
+            <code>
+              <description/>
+            </code>
+          </documentation>
+        </call>
+        <_probability>
+          <_probability_min/>
+          <_probability_max/>
+          <_probability_avg/>
+        </_probability>
+      </loop>
+      <call id="a10" endpoint="items">
+        <parameters>
+          <label>Choose plasitc color</label>
+          <method>:post</method>
+          <arguments>
+            <taskname>color selection</taskname>
+            <link>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/manual/colorSelection.html</link>
+            <role>worker</role>
+          </arguments>
+        </parameters>
+        <code>
+          <prepare/>
+          <finalize output="result">data.color = result['colors']; data.color_in_stock = [true, false].sample</finalize>
+          <update output="result"/>
+          <rescue output="result"/>
+        </code>
+        <annotations>
+          <_timing>
+            <_timing_weight/>
+            <_timing_avg/>
+            <explanations/>
+          </_timing>
+          <_context_data_analysis>
+            <probes/>
+            <ips/>
+          </_context_data_analysis>
+          <report>
+            <url/>
+          </report>
+          <_notes>
+            <_notes_general/>
+          </_notes>
+        </annotations>
+        <documentation>
+          <input/>
+          <output/>
+          <implementation>
+            <description/>
+          </implementation>
+          <code>
+            <description/>
+          </code>
+        </documentation>
+      </call>
+      <choose mode="exclusive">
+        <alternative condition="data.color_in_stock == false">
+          <call id="a11" endpoint="email">
+            <parameters>
+              <label>Order missing color</label>
+              <method>:post</method>
+              <arguments>
+                <email_recipient>!data.email_recipient</email_recipient>
+                <color>!data.color</color>
+              </arguments>
+            </parameters>
+            <code>
+              <prepare/>
+              <finalize output="result">data.order_color = 'email: Order 500g of '+ data.color + ' color';data.color_left = 500; data.color_in_stock = true</finalize>
+              <update output="result"/>
+              <rescue output="result"/>
+            </code>
+            <annotations>
+              <_timing>
+                <_timing_weight/>
+                <_timing_avg/>
+                <explanations/>
+              </_timing>
+              <_context_data_analysis>
+                <probes/>
+                <ips/>
+              </_context_data_analysis>
+              <report>
+                <url/>
+              </report>
+              <_notes>
+                <_notes_general/>
+              </_notes>
+            </annotations>
+            <documentation>
+              <input/>
+              <output/>
+              <implementation>
+                <description/>
+              </implementation>
+              <code>
+                <description/>
+              </code>
+            </documentation>
+          </call>
+          <_probability>
+            <_probability_min/>
+            <_probability_max/>
+            <_probability_avg/>
+          </_probability>
+        </alternative>
+        <otherwise>
+          <call id="a12" endpoint="colorLeft">
+            <parameters>
+              <label>Check how much color is left</label>
+              <method>:post</method>
+              <arguments/>
+            </parameters>
+            <code>
+              <prepare/>
+              <finalize output="result">data.color_left = result['colorLeft']</finalize>
+              <update output="result"/>
+              <rescue output="result"/>
+            </code>
+            <annotations>
+              <_timing>
+                <_timing_weight/>
+                <_timing_avg/>
+                <explanations/>
+              </_timing>
+              <_context_data_analysis>
+                <probes/>
+                <ips/>
+              </_context_data_analysis>
+              <report>
+                <url/>
+              </report>
+              <_notes>
+                <_notes_general/>
+              </_notes>
+            </annotations>
+            <documentation>
+              <input/>
+              <output/>
+              <implementation>
+                <description/>
+              </implementation>
+              <code>
+                <description/>
+              </code>
+            </documentation>
+          </call>
+        </otherwise>
+      </choose>
+      <choose mode="exclusive">
+        <alternative condition="data.color_left &lt;= 100">
+          <call id="a13" endpoint="shoppingList">
+            <parameters>
+              <label>Put it on shopping list</label>
+              <method>:post</method>
+              <arguments>
+                <color>!data.color</color>
+              </arguments>
+            </parameters>
+            <code>
+              <prepare/>
+              <finalize output="result">data.shopping = result['shoppingList']</finalize>
+              <update output="result"/>
+              <rescue output="result"/>
+            </code>
+            <annotations>
+              <_timing>
+                <_timing_weight/>
+                <_timing_avg/>
+                <explanations/>
+              </_timing>
+              <_context_data_analysis>
+                <probes/>
+                <ips/>
+              </_context_data_analysis>
+              <report>
+                <url/>
+              </report>
+              <_notes>
+                <_notes_general/>
+              </_notes>
+            </annotations>
+            <documentation>
+              <input/>
+              <output/>
+              <implementation>
+                <description/>
+              </implementation>
+              <code>
+                <description/>
+              </code>
+            </documentation>
+          </call>
+          <_probability>
+            <_probability_min/>
+            <_probability_max/>
+            <_probability_avg/>
+          </_probability>
+        </alternative>
+        <otherwise>
+          <call id="a14" endpoint="items">
+            <parameters>
+              <label>Keep an eye on color stock</label>
+              <method>:post</method>
+              <arguments>
+                <taskname>watch color stock</taskname>
+                <link>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/manual/colorStock.html</link>
+                <role>worker</role>
+              </arguments>
+            </parameters>
+            <code>
+              <prepare/>
+              <finalize output="result">data.color_left = result['quantity']</finalize>
+              <update output="result"/>
+              <rescue output="result"/>
+            </code>
+            <annotations>
+              <_timing>
+                <_timing_weight/>
+                <_timing_avg/>
+                <explanations/>
+              </_timing>
+              <_context_data_analysis>
+                <probes/>
+                <ips/>
+              </_context_data_analysis>
+              <report>
+                <url/>
+              </report>
+              <_notes>
+                <_notes_general/>
+              </_notes>
+            </annotations>
+            <documentation>
+              <input/>
+              <output/>
+              <implementation>
+                <description/>
+              </implementation>
+              <code>
+                <description/>
+              </code>
+            </documentation>
+          </call>
+        </otherwise>
+      </choose>
+      <call id="a15" endpoint="items">
+        <parameters>
+          <label>Turn on 3D printer</label>
+          <method>:post</method>
+          <arguments>
+            <taskname>Activate printer</taskname>
+            <link>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/manual/turnOn3DPrinter.html</link>
+            <role>worker</role>
+          </arguments>
+        </parameters>
+        <code>
+          <prepare/>
+          <finalize output="result">data.printer_status = 'Printer turned on'</finalize>
+          <update output="result"/>
+          <rescue output="result"/>
+        </code>
+        <annotations>
+          <_timing>
+            <_timing_weight/>
+            <_timing_avg/>
+            <explanations/>
+          </_timing>
+          <_context_data_analysis>
+            <probes/>
+            <ips/>
+          </_context_data_analysis>
+          <report>
+            <url/>
+          </report>
+          <_notes>
+            <_notes_general/>
+          </_notes>
+        </annotations>
+        <documentation>
+          <input/>
+          <output/>
+          <implementation>
+            <description/>
+          </implementation>
+          <code>
+            <description/>
+          </code>
+        </documentation>
+      </call>
+      <parallel wait="-1" cancel="last">
+        <parallel_branch pass="" local="">
+          <call id="a16" endpoint="items">
+            <parameters>
+              <label>Heat up bed</label>
+              <method>:post</method>
+              <arguments>
+                <taskname>Activate bed</taskname>
+                <link>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/manual/heatBed.html</link>
+                <role>worker</role>
+              </arguments>
+            </parameters>
+            <code>
+              <prepare/>
+              <finalize output="result"/>
+              <update output="result">data.printer_status = 'Bed started'</update>
+              <rescue output="result"/>
+            </code>
+            <annotations>
+              <_timing>
+                <_timing_weight/>
+                <_timing_avg/>
+                <explanations/>
+              </_timing>
+              <_context_data_analysis>
+                <probes/>
+                <ips/>
+              </_context_data_analysis>
+              <report>
+                <url/>
+              </report>
+              <_notes>
+                <_notes_general/>
+              </_notes>
+            </annotations>
+            <documentation>
+              <input/>
+              <output/>
+              <implementation>
+                <description/>
+              </implementation>
+              <code>
+                <description/>
+              </code>
+            </documentation>
+          </call>
+        </parallel_branch>
+        <parallel_branch pass="" local="">
+          <call id="a17" endpoint="items">
+            <parameters>
+              <label>Start extruder</label>
+              <method>:post</method>
+              <arguments>
+                <taskname>Activate extruder</taskname>
+                <link>https://wwwlab.cs.univie.ac.at/~a1250600/wt21/3c/manual/startExtruder.html</link>
+                <role>worker</role>
+              </arguments>
+            </parameters>
+            <code>
+              <prepare/>
+              <finalize output="result">data.printer_status = 'Extruder started'</finalize>
+              <update output="result"/>
+              <rescue output="result"/>
+            </code>
+            <annotations>
+              <_timing>
+                <_timing_weight/>
+                <_timing_avg/>
+                <explanations/>
+              </_timing>
+              <_context_data_analysis>
+                <probes/>
+                <ips/>
+              </_context_data_analysis>
+              <report>
+                <url/>
+              </report>
+              <_notes>
+                <_notes_general/>
+              </_notes>
+            </annotations>
+            <documentation>
+              <input/>
+              <output/>
+              <implementation>
+                <description/>
+              </implementation>
+              <code>
+                <description/>
+              </code>
+            </documentation>
+          </call>
+        </parallel_branch>
+      </parallel>
+      <call id="a18" endpoint="gcode">
+        <parameters>
+          <label>Generate g code file</label>
+          <method>:get</method>
+          <arguments>
+            <draft>!data.draft</draft>
+          </arguments>
+        </parameters>
+        <code>
+          <prepare/>
+          <finalize output="result">data.gcode =  result['gcode']</finalize>
+          <update output="result"/>
+          <rescue output="result"/>
+        </code>
+        <annotations>
+          <_timing>
+            <_timing_weight/>
+            <_timing_avg/>
+            <explanations/>
+          </_timing>
+          <_context_data_analysis>
+            <probes/>
+            <ips/>
+          </_context_data_analysis>
+          <report>
+            <url/>
+          </report>
+          <_notes>
+            <_notes_general/>
+          </_notes>
+        </annotations>
+        <documentation>
+          <input/>
+          <output/>
+          <implementation>
+            <description/>
+          </implementation>
+          <code>
+            <description/>
+          </code>
+        </documentation>
+      </call>
+      <call id="a19" endpoint="printer">
+        <parameters>
+          <label>Print the model</label>
+          <method>:post</method>
+          <arguments>
+            <draft>!data.draft</draft>
+          </arguments>
+        </parameters>
+        <code>
+          <prepare/>
+          <finalize output="result">data.model = result['print']</finalize>
+          <update output="result"/>
+          <rescue output="result"/>
+        </code>
+        <annotations>
+          <_timing>
+            <_timing_weight/>
+            <_timing_avg/>
+            <explanations/>
+          </_timing>
+          <_context_data_analysis>
+            <probes/>
+            <ips/>
+          </_context_data_analysis>
+          <report>
+            <url/>
+          </report>
+          <_notes>
+            <_notes_general/>
+          </_notes>
+        </annotations>
+        <documentation>
+          <input/>
+          <output/>
+          <implementation>
+            <description/>
+          </implementation>
+          <code>
+            <description/>
+          </code>
+        </documentation>
+      </call>
+    </description>
+  </description>
+  <transformation>
+    <description type="copy"/>
+    <dataelements type="none"/>
+    <endpoints type="none"/>
+  </transformation>
+</testset>
