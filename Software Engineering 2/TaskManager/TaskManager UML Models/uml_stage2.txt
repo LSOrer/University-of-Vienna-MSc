@@ -1,0 +1,48 @@
+@startuml
+
+skin rose
+
+title Task Management Application Design - Stage 2
+
+
+class "Task" as class1 {
+  +String taskName
+  +String description
+  +String dueDate
+  +bool isCompleted
+  +String getTaskName()
+  +String getDescription()
+  +String getDueDate()
+  +bool isCompleted()
+  +void setCompleted(bool)
+}
+
+class "TaskManager" as class2 {
+  +List<Task> tasks
+  +void addTask()
+  +void updateTaskStatus(String, bool)
+  +List<Task> searchTasks(String)
+  +List<Task> getAllTasks()
+}
+
+class "User" as class3 {
+  +String userName
+  +String email
+  +String password
+}
+
+class "Category" as class4 {
+  +String categoryName
+}
+
+class "Project" as class5 {
+  +String projectName
+}
+
+class2 -- class3 : uses
+class2 "1,1" *-- "0,*" class1 : contains
+class1 "1,1" -- "0,*" class4 : belongs to
+class1 "1,1" -- "0,1" class5 : belongs to
+
+
+@enduml
