@@ -1,0 +1,303 @@
+<definitions
+	Name="SOAP"
+	targetNamespace="http://wwwlab.cs.univie.ac.at/~a1250600/soap/SOAP.wsdl"
+	xmlns:tns="http://wwwlab.cs.univie.ac.at/~a1250600/soap/SOAP.wsdl"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+	xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+	xmlns="http://schemas.xmlsoap.org/wsdl/"
+	xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/">
+
+
+	<types>
+		<xsd:schema targetNamespace="SOAP">
+
+			<xsd:complexType name="intArray">
+				<xsd:sequence>
+					<xsd:element minOccurs="2" maxOccurs="2" name="intelement" type="xsd:int"/>
+				</xsd:sequence>
+			</xsd:complexType>
+
+			<xsd:complexType name="stringArray">
+        <xsd:all>
+          <xsd:element name="stringArray" maxOccurs='unbounded'/>
+        </xsd:all>
+			</xsd:complexType>
+
+			<xsd:complexType name="datesArray">
+				<xsd:sequence>
+					<xsd:element minOccurs="2" maxOccurs="2" name="dateelement" type="xsd:date"/>
+				</xsd:sequence>
+			</xsd:complexType>
+
+			<xsd:complexType name="objectArray">
+				<xsd:sequence>
+					<xsd:element minOccurs="2" maxoccurs="unbounded" name="objectelement" type="tns:object"/>
+				</xsd:sequence>
+			</xsd:complexType>
+
+			<xsd:complexType name="object">
+				<xsd:sequence>
+					<xsd:element name="robot" type="xsd:string"/>
+					<xsd:element name="city" type="xsd:string"/>
+				</xsd:sequence>
+			</xsd:complexType>
+
+			<xsd:complexType name="hashmap">
+				<xsd:sequence>
+					<xsd:element minOccurs="1" maxOccurs="unbounded" name="hashmapelement" type="tns:mapobject"/>
+				</xsd:sequence>
+			</xsd:complexType>
+
+			<xsd:complexType name="mapobject">
+				<xsd:sequence>
+					<xsd:element name="key" type="xsd:int"/>
+					<xsd:element name="value" type="xsd:int"/>
+				</xsd:sequence>
+			</xsd:complexType>
+
+		</xsd:schema>
+	</types>
+
+	<message name="getNumberOfCustomersServedByJoe">
+		<part name="NumberOfCustomers" type="xsd:string"/>
+	</message>
+	<message name="getNumberOfCustomersServedByJoeResponse">
+		<part name="NumberOfCustomersResponse" type="xsd:int"/>
+	</message>
+
+	<message name="getDeliverysInRange">
+		<part name="getDeliverysInRange" type="tns:intArray"/>
+	</message>
+	<message name="getDeliverysInRangeResponse">
+		<part name="getDeliverysInRangeResponse" type="xsd:string"/>
+	</message>
+
+	<message name="getOrdersWithTomatos">
+		<part name="OrdersWithTomatos" type="tns:stringArray"/>
+	</message>
+	<message name="getOrdersWithTomatosResponse">
+		<part name="OrdersWithTomatosResponse" type="xsd:string"/>
+	</message>
+
+	<message name="getRobotTaskboard">
+		<part name="RobotTaskboard" type="tns:hashmap"/>
+	</message>
+	<message name="getRobotTaskboardResponse">
+		<part name="RobotTaskboardResponse" type="xsd:xml"/>
+	</message>
+
+	<message name="getNumberOfOrdersBetween">
+		<part name="NumberOfOrdersBetween" type="tns:datesArray"/>
+	</message>
+	<message name="getNumberOfOrdersBetweenResponse">
+		<part name="NumberOfOrdersBetweenResponse" type="xsd:string"/>
+	</message>
+
+	<message name="getBurgerbunItemsize">
+		<part name="BurgerbunItemsize" type="tns:intArray"/>
+	</message>
+	<message name="getBurgerbunItemsizeResponse">
+		<part name="BurgerbunItemsizeResponse" type="xsd:string"/>
+	</message>
+
+	<message name="getRobotsAndCitys">
+		<part name="RobotsAndCitys" type="tns:objectArray"/>
+	</message>
+	<message name="getRobotsAndCitysResponse">
+		<part name="RobotsAndCitysResponse" type="xsd:string"/>
+	</message>
+
+	<message name="getAddressOfCustomer">
+		<part name="AddressOfCustomer" type="xsd:int"/>
+	</message>
+	<message name="getAddressOfCustomerResponse">
+		<part name="AddressOfCustomerResponse" type="xsd:xml"/>
+	</message>
+
+	<message name="getOrdersWithWater">
+		<part name="OrdersWithWater" type="tns:stringArray"/>
+	</message>
+	<message name="getOrdersWithWaterResponse">
+		<part name="OrdersWithWaterResponse" type="xsd:xml"/>
+	</message>
+
+	<message name="getOrdersOfDate">
+		<part name="OrdersOfDate" type="xsd:date"/>
+	</message>
+	<message name="getOrdersOfDateResponse">
+		<part name="OrdersOfDateResponse" type="xsd:xml"/>
+	</message>
+
+
+	<portType name="SOAPPort">
+
+		<operation name="getNumberOfCustomersServedByJoe">
+			<input message="tns:getNumberOfCustomersServedByJoe"/>
+			<output message="tns:getNumberOfCustomersServedByJoeResponse"/>
+		</operation>
+
+		<operation name="getDeliverysInRange">
+			<input message="tns:getDeliverysInRange"/>
+			<output message="tns:getDeliverysInRangeResponse"/>
+		</operation>
+
+		<operation name="getOrdersWithTomatos">
+			<input message="tns:getOrdersWithTomatos"/>
+			<output message="tns:getOrdersWithTomatosResponse"/>
+		</operation>
+
+		<operation name="getRobotTaskboard">
+			<input message="tns:getRobotTaskboard"/>
+			<output message="tns:getRobotTaskboardResponse"/>
+		</operation>
+
+		<operation name="getNumberOfOrdersBetween">
+			<input message="tns:getNumberOfOrdersBetween"/>
+			<output message="tns:getNumberOfOrdersBetweenResponse"/>
+		</operation>
+
+		<operation name="getBurgerbunItemsize">
+			<input message="tns:getBurgerbunItemsize"/>
+			<output message="tns:getBurgerbunItemsizeResponse"/>
+		</operation>
+
+		<operation name="getRobotsAndCitys">
+			<input message="tns:getRobotsAndCitys"/>
+			<output message="tns:getRobotsAndCitysResponse"/>
+		</operation>
+
+		<operation name="getAddressOfCustomer">
+			<input message="tns:getAddressOfCustomer"/>
+			<output message="tns:getAddressOfCustomerResponse"/>
+		</operation>
+
+		<operation name="getOrdersWithWater">
+			<input message="tns:getOrdersWithWater"/>
+			<output message="tns:getOrdersWithWaterResponse"/>
+		</operation>
+
+		<operation name="getOrdersOfDate">
+			<input message="tns:getOrdersOfDate"/>
+			<output message="tns:getOrdersOfDateResponse"/>
+		</operation>
+
+	</portType>
+
+
+	<binding name="SOAPBinding" type="tns:SOAPPort">
+		<soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+		<operation name="getNumberOfCustomersServedByJoe">
+			<soap:operation soapAction="getNumberOfCustomersServedByJoe"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getDeliverysInRange">
+			<soap:operation soapAction="getDeliverysInRange"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getOrdersWithTomatos">
+			<soap:operation soapAction="getOrdersWithTomatos"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getRobotTaskboard">
+			<soap:operation soapAction="getRobotTaskboard"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getNumberOfOrdersBetween">
+			<soap:operation soapAction="getNumberOfOrdersBetween"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getBurgerbunItemsize">
+			<soap:operation soapAction="getBurgerbunItemsize"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getRobotsAndCitys">
+			<soap:operation soapAction="getRobotsAndCitys"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getAddressOfCustomer">
+			<soap:operation soapAction="getAddressOfCustomer"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getOrdersWithWater">
+			<soap:operation soapAction="getOrdersWithWater"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+		<operation name="getOrdersOfDate">
+			<soap:operation soapAction="getOrdersOfDate"/>
+			<input>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</input>
+			<output>
+				<soap:body use="literal" namespace="tns:SOAP"/>
+			</output>
+		</operation>
+
+
+	</binding>
+
+
+	<service name='SOAP'>
+		<port name="SOAPPort" binding="tns:SOAPBinding">
+			<soap:address location="http://wwwlab.cs.univie.ac.at/~a1250600/soap/server.php"/>
+		</port>
+	</service>
+
+
+</definitions>
+

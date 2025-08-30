@@ -1,0 +1,30 @@
+{
+    "1": {
+        "progress": "Patty on grill",
+        "percentage": 20
+    },
+    "2": {
+        "progress": "Bun sliced",
+        "percentage": 30
+    },
+    "3": {
+        "progress": "Sauce on bun",
+        "percentage": 40
+    },
+    "4": {
+        "progress": "Extra1 added",
+        "percentage": 50
+    },
+    "5": {
+        "progress": "Extra2 added",
+        "percentage": 60
+    },
+    "6": {
+        "progress": "SideDish & drink prepared",
+        "percentage": 80
+    },
+    "7": {
+        "progress": "Menu finished",
+        "percentage": 100
+    }
+}

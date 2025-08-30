@@ -1,0 +1,57 @@
+{
+    "Patty": {
+        "beef": 50,
+        "pork": 50,
+        "chicken": 50,
+        "fish": 50,
+        "veggie": 50,
+        "vegan": 50,
+        "lamb": 50
+    },
+    "Bun": {
+        "classic bun": 100,
+        "sesame bun": 30,
+        "glutenfree bun": 30,
+        "wholewheat bun": 30
+    },
+    "Sauce": {
+        "ketchup": 999,
+        "mayo": 999,
+        "raunch": 999,
+        "smokey": 999,
+        "BBQ": 999,
+        "mustard": 999,
+        "tatar": 999
+    },
+    "Extra1": {
+        "tomatos": 500,
+        "onion": 500,
+        "lettuce": 500,
+        "cheese": 300,
+        "bacon": 300,
+        "pickles": 300,
+        "cucumber": 200
+    },
+    "Extra2": {
+        "tomatos": 500,
+        "onion": 500,
+        "lettuce": 500,
+        "cheese": 300,
+        "bacon": 300,
+        "pickles": 300,
+        "cucumber": 200
+    },
+    "SideDish": {
+        "french frites": 999,
+        "belgian fries": 999,
+        "wedges": 999,
+        "dollar chips": 999
+    },
+    "Drink": {
+        "coca cola": 999,
+        "sprite": 999,
+        "fanta": 999,
+        "still water": 999,
+        "sparkling water": 999
+    }
+}
