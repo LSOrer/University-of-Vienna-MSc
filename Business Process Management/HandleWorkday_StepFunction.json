@@ -1,0 +1,64 @@
+{
+  "StartAt": "Input?",
+  "States": {
+    "Input?": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.Requesttype",
+          "StringEquals": "LOGIN",
+          "Next": "beginWorkday"
+        },
+        {
+          "Variable": "$.Requesttype",
+          "StringEquals": "LOGOUT",
+          "Next": "endWorkday"
+        },
+        {
+          "Variable": "$.Requesttype",
+          "StringEquals": "REPORT",
+          "Next": "generateReport"
+        }
+      ]
+    },
+    "beginWorkday": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "Parameters": {
+        "FunctionName": "arn:aws:lambda:us-east-1:516901047716:function:assignWorkOrderr:$LATEST",
+        "Payload.$": "$"
+      },
+      "End": true
+    },
+    "generateReport": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "Parameters": {
+        "FunctionName": "arn:aws:lambda:us-east-1:516901047716:function:generateReport:$LATEST",
+        "Payload.$": "$"
+      },
+      "End": true
+    },
+    "endWorkday": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "Parameters": {
+        "FunctionName": "arn:aws:lambda:us-east-1:516901047716:function:endWorkday:$LATEST",
+        "Payload.$": "$"
+      },
+      "ResultPath": "$",
+      "Next": "writeToReport"
+    },
+    "writeToReport": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "Parameters": {
+        "FunctionName": "arn:aws:lambda:us-east-1:516901047716:function:writeToReport:$LATEST",
+        "Payload.$": "$"
+      },
+      "InputPath": "$",
+      "ResultPath": "$.taskresult",
+      "End": true
+    }
+  }
+}

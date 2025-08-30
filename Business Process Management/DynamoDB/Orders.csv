@@ -1,0 +1,7 @@
+"OrderID (S)","CurrentAmount (N)","Customer (S)","HourlyRate (N)","Priority (N)","TotalAmount (N)","Type (S)","WorkerID (S)"
+"1","0","Phillips","26","3","5000","Press","null"
+"2","240","Phillips","12","4","300","Bend","null"
+"3","10132","Doka","2400","1","125000","Press","null"
+"4","2","Doka","2","1","52","Bend","null"
+"5","0","Porr","5","3","600","Bend","null"
+"6","0","Porr","48","2","480","Bend","null"

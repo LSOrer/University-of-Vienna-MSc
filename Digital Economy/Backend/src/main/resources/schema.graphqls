@@ -1,0 +1,26 @@
+type Query {
+    ordersOfUser(userid: String): [Order]!
+    allOrders: [Order]!
+}
+
+type Address {
+    street: String!
+    number: String!
+    zip: String!
+    country: String!
+}
+
+type Product {
+    productline: String!
+    shoesize: String!
+    quantity: String!
+}
+
+
+type Order {
+    orderId: ID!
+    userid: String!
+    dropid: String!
+    address: Address!
+    products: [Product]!
+}
