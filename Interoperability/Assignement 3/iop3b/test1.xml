@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<customer_data>
+  <customer_details customer_id="7">
+    <lname>HRLrlmWE</lname>
+    <fname>lPHexTCc</fname>
+    <bday>1989-01-27</bday>
+    <address>
+      <Address>
+        <City>Klagenfurt</City>
+        <Country>Austria</Country>
+        <Street>
+          <Street>ffeKxcur-street</Street>
+          <Number>94</Number>
+          <Additional>22</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="90">
+        <item_id>83</item_id>
+        <robot_id>440</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="440">
+      <rname>Barney</rname>
+      <rtype>burger_chef</rtype>
+      <rfunction>produce burger</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1">
+    <lname>vLpjLple</lname>
+    <fname>FJncwPNF</fname>
+    <bday>1995-10-16</bday>
+    <address>
+      <Address>
+        <City>Graz</City>
+        <Country>Austria</Country>
+        <Street>
+          <Street>QAumgmGb-street</Street>
+          <Number>89</Number>
+          <Additional>6</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="105">
+        <item_id>57</item_id>
+        <robot_id>633</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="633">
+      <rname>Bob</rname>
+      <rtype>fries_expert</rtype>
+      <rfunction>produce fries</rfunction>
+    </robots>
+  </customer_details>
+</customer_data>

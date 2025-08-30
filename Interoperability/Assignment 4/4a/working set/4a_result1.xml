@@ -1,0 +1,1623 @@
+<?xml version="1.0"?>
+<customer_data>
+  <customer_details customer_id="1001">
+    <lname>Green</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>0</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1001">
+        <item_id>101</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1005">
+    <lname>Waltham</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Adelaide Avenue</Street>
+          <Number>4</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1005">
+        <item_id>105</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1008">
+    <lname>Waltham</lname>
+    <fname>Rachel</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>7</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1008">
+        <item_id>108</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1014">
+    <lname>Wheeler</lname>
+    <fname>Emily</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>13</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1014">
+        <item_id>114</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1017">
+    <lname>Garrett</lname>
+    <fname>Emily</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Francisco</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>16</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1017">
+        <item_id>117</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1020">
+    <lname>Geller</lname>
+    <fname>Rachel</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Greenpark Avenue</Street>
+          <Number>19</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1020">
+        <item_id>120</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1039">
+    <lname>Green</lname>
+    <fname>Emily</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>38</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1039">
+        <item_id>139</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1045">
+    <lname>Geller</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Jose</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>44</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1045">
+        <item_id>145</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1049">
+    <lname>Miller</lname>
+    <fname>Emma</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Francisco</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>48</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1049">
+        <item_id>149</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1050">
+    <lname>Willick</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>49</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1050">
+        <item_id>150</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1060">
+    <lname>Geller</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>59</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1060">
+        <item_id>160</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1063">
+    <lname>Stevens</lname>
+    <fname>Janice</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Greenpark Avenue</Street>
+          <Number>62</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1063">
+        <item_id>163</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1067">
+    <lname>Heckles</lname>
+    <fname>Janice</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>66</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1067">
+        <item_id>167</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1095">
+    <lname>Wheeler</lname>
+    <fname>Emma</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Jose</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>94</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1095">
+        <item_id>195</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1101">
+    <lname>Stevens</lname>
+    <fname>Emma</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>100</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1101">
+        <item_id>201</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1112">
+    <lname>Burke</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Jose</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>111</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1112">
+        <item_id>212</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1122">
+    <lname>Geller</lname>
+    <fname>Rachel</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>121</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1122">
+        <item_id>222</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1126">
+    <lname>Buffay</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Palm Springs</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Adelaide Avenue</Street>
+          <Number>125</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1126">
+        <item_id>226</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1133">
+    <lname>Willick</lname>
+    <fname>Emily</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Abby Park Street</Street>
+          <Number>132</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1133">
+        <item_id>233</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1136">
+    <lname>Buffay</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>135</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1136">
+        <item_id>236</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1143">
+    <lname>Burke</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Palm Springs</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Greenpark Avenue</Street>
+          <Number>142</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1143">
+        <item_id>243</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1169">
+    <lname>Buffay</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Palm Springs</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>168</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1169">
+        <item_id>269</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1175">
+    <lname>Hannigan</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Francisco</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Adelaide Avenue</Street>
+          <Number>174</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1175">
+        <item_id>275</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1182">
+    <lname>Burke</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>181</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1182">
+        <item_id>282</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1185">
+    <lname>Stevens</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Palm Springs</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Abby Park Street</Street>
+          <Number>184</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1185">
+        <item_id>285</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1186">
+    <lname>Wheeler</lname>
+    <fname>Janice</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Abby Park Street</Street>
+          <Number>185</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1186">
+        <item_id>286</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1189">
+    <lname>Green</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Abby Park Street</Street>
+          <Number>188</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1189">
+        <item_id>289</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1190">
+    <lname>Hosenstein</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Jose</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Adelaide Avenue</Street>
+          <Number>189</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1190">
+        <item_id>290</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1193">
+    <lname>Miller</lname>
+    <fname>Rachel</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Francisco</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Abby Park Street</Street>
+          <Number>192</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1193">
+        <item_id>293</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1196">
+    <lname>Wheeler</lname>
+    <fname>Rachel</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>195</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1196">
+        <item_id>296</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1207">
+    <lname>Waltham</lname>
+    <fname>Emily</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>206</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1207">
+        <item_id>307</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1210">
+    <lname>Heckles</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Jose</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>209</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1210">
+        <item_id>310</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1212">
+    <lname>Willick</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Palm Springs</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>211</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1212">
+        <item_id>312</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1215">
+    <lname>Heckles</lname>
+    <fname>Emily</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Palm Springs</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Abby Park Street</Street>
+          <Number>214</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1215">
+        <item_id>315</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1221">
+    <lname>Burke</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>220</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1221">
+        <item_id>321</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1223">
+    <lname>Hannigan</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Adelaide Avenue</Street>
+          <Number>222</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1223">
+        <item_id>323</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1239">
+    <lname>Bing</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>238</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1239">
+        <item_id>339</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1243">
+    <lname>Garrett</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>242</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1243">
+        <item_id>343</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1253">
+    <lname>Miller</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>252</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1253">
+        <item_id>353</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1267">
+    <lname>Heckles</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>266</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1267">
+        <item_id>367</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1275">
+    <lname>Tribianni</lname>
+    <fname>Rachel</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>274</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1275">
+        <item_id>375</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1281">
+    <lname>Bing</lname>
+    <fname>Janice</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Francisco</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>280</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1281">
+        <item_id>381</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1293">
+    <lname>Buffay</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>292</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1293">
+        <item_id>393</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1296">
+    <lname>Tribianni</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>295</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1296">
+        <item_id>396</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1300">
+    <lname>Garrett</lname>
+    <fname>Janice</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>299</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1300">
+        <item_id>400</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1301">
+    <lname>Willick</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>300</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1301">
+        <item_id>401</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1303">
+    <lname>Willick</lname>
+    <fname>Emily</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Palm Springs</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>302</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1303">
+        <item_id>403</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1312">
+    <lname>Stevens</lname>
+    <fname>Rachel</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Francisco</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Adelaide Avenue</Street>
+          <Number>311</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1312">
+        <item_id>412</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1321">
+    <lname>Hosenstein</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Jose</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>320</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1321">
+        <item_id>421</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1328">
+    <lname>Tribianni</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>327</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1328">
+        <item_id>428</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1330">
+    <lname>Tribianni</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>329</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1330">
+        <item_id>430</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1332">
+    <lname>Willick</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Los Angeles</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Greenpark Avenue</Street>
+          <Number>331</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1332">
+        <item_id>432</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1337">
+    <lname>Waltham</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>Mayores Road</Street>
+          <Number>336</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1337">
+        <item_id>437</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1338">
+    <lname>Bing</lname>
+    <fname>Ursula</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>337</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1338">
+        <item_id>438</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1344">
+    <lname>Garrett</lname>
+    <fname>Emma</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>San Jose</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>343</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1344">
+        <item_id>444</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1358">
+    <lname>Heckles</lname>
+    <fname>Judy</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Santa Barbara</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>357</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1358">
+        <item_id>458</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1373">
+    <lname>Waltham</lname>
+    <fname>Monica</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>California Street</Street>
+          <Number>372</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1373">
+        <item_id>473</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1380">
+    <lname>Garrett</lname>
+    <fname>Phoebe</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>East Hills Avenue</Street>
+          <Number>379</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1380">
+        <item_id>480</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1385">
+    <lname>Burke</lname>
+    <fname>Emma</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>New York</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>384</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1385">
+        <item_id>485</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+  <customer_details customer_id="1387">
+    <lname>Tribianni</lname>
+    <fname>Janice</fname>
+    <bday>1999-01-01</bday>
+    <address>
+      <Address>
+        <City>Malibu</City>
+        <Country>USA</Country>
+        <Street>
+          <Street>New Street</Street>
+          <Number>386</Number>
+          <Additional>None</Additional>
+        </Street>
+      </Address>
+    </address>
+    <order_data>
+      <orders order_id="1387">
+        <item_id>487</item_id>
+        <robot_id>xxx</robot_id>
+      </orders>
+    </order_data>
+    <robots robot_id="xxx">
+      <rname>opt. robot name</rname>
+      <rtype>opt. robot type</rtype>
+      <rfunction>opt. robot function</rfunction>
+    </robots>
+  </customer_details>
+</customer_data>

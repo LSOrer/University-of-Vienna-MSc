@@ -1,0 +1,4 @@
+zorba xquery1.xq -i > newcode/result1.xml
+zorba xquery2.xq -i > newcode/result2.xml
+zorba xquery3.xq -i > newcode/result3.xml
+zorba xquery4.xq -i > newcode/result4.xml

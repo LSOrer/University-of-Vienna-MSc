@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="customer_data">
+      <oneOrMore>
+        <element name="customer_details">
+          <attribute name="customer_id">
+            <data type="integer"/>
+          </attribute>
+          <element name="lname">
+            <data type="NCName"/>
+          </element>
+          <element name="fname">
+            <data type="NCName"/>
+          </element>
+          <element name="bday">
+            <data type="NMTOKEN"/>
+          </element>
+          <element name="address">
+            <element name="Address">
+              <element name="City">
+                <data type="NCName"/>
+              </element>
+              <element name="Country">
+                <data type="NCName"/>
+              </element>
+              <ref name="Street"/>
+            </element>
+          </element>
+          <element name="order_data">
+            <element name="orders">
+              <optional>
+                <attribute name="order_id">
+                  <data type="integer"/>
+                </attribute>
+              </optional>
+              <optional>
+                <element name="item_id">
+                  <data type="integer"/>
+                </element>
+                <element name="robot_id">
+                  <data type="integer"/>
+                </element>
+              </optional>
+            </element>
+          </element>
+          <element name="robots">
+            <optional>
+              <attribute name="robot_id">
+                <data type="integer"/>
+              </attribute>
+            </optional>
+            <optional>
+              <element name="rname">
+                <data type="NCName"/>
+              </element>
+              <element name="rtype">
+                <data type="NCName"/>
+              </element>
+              <element name="rfunction">
+                <text/>
+              </element>
+            </optional>
+          </element>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+  <define name="Street">
+    <element name="Street">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="Street"/>
+          <element name="Additional">
+            <data type="integer"/>
+          </element>
+          <element name="Number">
+            <data type="integer"/>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+</grammar>
+

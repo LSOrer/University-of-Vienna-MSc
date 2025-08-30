@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<order orderid="1001">
+		<status>Finished</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>1</invoiceId>
+					<customerId>1001</customerId>
+					<created>2021-04-13 11:47:54.65</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="Diner">
+							<cardNumber>61962145</cardNumber>
+							<cvc>626</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="101">
+				<menu menuid="101">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1008">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>8</invoiceId>
+					<customerId>1008</customerId>
+					<created>2021-04-13 11:47:54.65</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>83754136</cardNumber>
+							<cvc>922</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="108">
+				<menu menuid="105">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1017">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>17</invoiceId>
+					<customerId>1017</customerId>
+					<created>2021-04-13 11:47:54.65</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>48088275</cardNumber>
+							<cvc>632</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="117">
+				<menu menuid="113">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1050">
+		<status>Finished</status>
+		<totalprice>20.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>50</invoiceId>
+					<customerId>1050</customerId>
+					<created>2021-04-13 11:47:54.65</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="Diner">
+							<cardNumber>39538490</cardNumber>
+							<cvc>172</cvc>
+						</card>
+					</cardInfo>
+					<amount>20.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="150">
+				<menu menuid="131">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1060">
+		<status>Finished</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>60</invoiceId>
+					<customerId>1060</customerId>
+					<created>2021-04-13 11:47:54.65</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>36819627</cardNumber>
+							<cvc>486</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="160">
+				<menu menuid="135">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1067">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>67</invoiceId>
+					<customerId>1067</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="Diner">
+							<cardNumber>16837306</cardNumber>
+							<cvc>306</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="167">
+				<menu menuid="140">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1095">
+		<status>Preparing</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>95</invoiceId>
+					<customerId>1095</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>10319581</cardNumber>
+							<cvc>543</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="195">
+				<menu menuid="149">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1122">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>122</invoiceId>
+					<customerId>1122</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>39653954</cardNumber>
+							<cvc>450</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="222">
+				<menu menuid="160">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1143">
+		<status>Finished</status>
+		<totalprice>21</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>143</invoiceId>
+					<customerId>1143</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>74696814</cardNumber>
+							<cvc>231</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.0</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="243">
+				<menu menuid="171">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1182">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>182</invoiceId>
+					<customerId>1182</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>47402243</cardNumber>
+							<cvc>313</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="282">
+				<menu menuid="192">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1189">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>189</invoiceId>
+					<customerId>1189</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>65397029</cardNumber>
+							<cvc>453</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="289">
+				<menu menuid="199">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1207">
+		<status>Finished</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>207</invoiceId>
+					<customerId>1207</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>86002731</cardNumber>
+							<cvc>420</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="307">
+				<menu menuid="213">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1210">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>210</invoiceId>
+					<customerId>1210</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>15251694</cardNumber>
+							<cvc>744</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="310">
+				<menu menuid="214">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1215">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>215</invoiceId>
+					<customerId>1215</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="VISA">
+							<cardNumber>42500776</cardNumber>
+							<cvc>362</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="315">
+				<menu menuid="217">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1267">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>267</invoiceId>
+					<customerId>1267</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>66333419</cardNumber>
+							<cvc>792</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="367">
+				<menu menuid="240">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1293">
+		<status>Finished</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>293</invoiceId>
+					<customerId>1293</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>89881480</cardNumber>
+							<cvc>366</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="393">
+				<menu menuid="252">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1303">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>303</invoiceId>
+					<customerId>1303</customerId>
+					<created>2021-04-13 11:47:54.665</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="VISA">
+							<cardNumber>71356091</cardNumber>
+							<cvc>651</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="403">
+				<menu menuid="258">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1321">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>321</invoiceId>
+					<customerId>1321</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>69977055</cardNumber>
+							<cvc>987</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="421">
+				<menu menuid="269">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1332">
+		<status>Preparing</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>332</invoiceId>
+					<customerId>1332</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>16850411</cardNumber>
+							<cvc>918</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="432">
+				<menu menuid="274">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1344">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>344</invoiceId>
+					<customerId>1344</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="VISA">
+							<cardNumber>83836625</cardNumber>
+							<cvc>505</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="444">
+				<menu menuid="281">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1358">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>358</invoiceId>
+					<customerId>1358</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>65890927</cardNumber>
+							<cvc>865</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="458">
+				<menu menuid="291">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1387">
+		<status>Preparing</status>
+		<totalprice>20.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>387</invoiceId>
+					<customerId>1387</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="VISA">
+							<cardNumber>20809191</cardNumber>
+							<cvc>735</cvc>
+						</card>
+					</cardInfo>
+					<amount>20.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="487">
+				<menu menuid="305">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1399">
+		<status>Finished</status>
+		<totalprice>20.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>399</invoiceId>
+					<customerId>1399</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>73574986</cardNumber>
+							<cvc>758</cvc>
+						</card>
+					</cardInfo>
+					<amount>20.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="499">
+				<menu menuid="311">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1416">
+		<status>Finished</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>416</invoiceId>
+					<customerId>1416</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="Diner">
+							<cardNumber>45738202</cardNumber>
+							<cvc>197</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="516">
+				<menu menuid="322">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1425">
+		<status>Finished</status>
+		<totalprice>21</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>425</invoiceId>
+					<customerId>1425</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>22693456</cardNumber>
+							<cvc>387</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.0</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="525">
+				<menu menuid="326">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1466">
+		<status>Preparing</status>
+		<totalprice>21</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>466</invoiceId>
+					<customerId>1466</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>55285677</cardNumber>
+							<cvc>589</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.0</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="566">
+				<menu menuid="345">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1478">
+		<status>Finished</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>478</invoiceId>
+					<customerId>1478</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>67385910</cardNumber>
+							<cvc>938</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="578">
+				<menu menuid="354">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1482">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>482</invoiceId>
+					<customerId>1482</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>80925033</cardNumber>
+							<cvc>123</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="582">
+				<menu menuid="357">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1484">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>484</invoiceId>
+					<customerId>1484</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>12260612</cardNumber>
+							<cvc>282</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="584">
+				<menu menuid="358">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1485">
+		<status>Finished</status>
+		<totalprice>20.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>485</invoiceId>
+					<customerId>1485</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>21771545</cardNumber>
+							<cvc>386</cvc>
+						</card>
+					</cardInfo>
+					<amount>20.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="585">
+				<menu menuid="359">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1509">
+		<status>Preparing</status>
+		<totalprice>21</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>509</invoiceId>
+					<customerId>1509</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>29210194</cardNumber>
+							<cvc>357</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.0</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="609">
+				<menu menuid="370">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1520">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>520</invoiceId>
+					<customerId>1520</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>25419455</cardNumber>
+							<cvc>886</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="620">
+				<menu menuid="376">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1525">
+		<status>Preparing</status>
+		<totalprice>21</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>525</invoiceId>
+					<customerId>1525</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>71256930</cardNumber>
+							<cvc>973</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.0</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="625">
+				<menu menuid="377">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1530">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>530</invoiceId>
+					<customerId>1530</customerId>
+					<created>2021-04-13 11:47:54.681</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>71422816</cardNumber>
+							<cvc>152</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="630">
+				<menu menuid="380">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1553">
+		<status>Preparing</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>553</invoiceId>
+					<customerId>1553</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="VISA">
+							<cardNumber>72318876</cardNumber>
+							<cvc>814</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="653">
+				<menu menuid="390">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1565">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>565</invoiceId>
+					<customerId>1565</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>31104729</cardNumber>
+							<cvc>254</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="665">
+				<menu menuid="397">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1567">
+		<status>Preparing</status>
+		<totalprice>20.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>567</invoiceId>
+					<customerId>1567</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>64841239</cardNumber>
+							<cvc>637</cvc>
+						</card>
+					</cardInfo>
+					<amount>20.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="667">
+				<menu menuid="399">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1583">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>583</invoiceId>
+					<customerId>1583</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>72810349</cardNumber>
+							<cvc>992</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="683">
+				<menu menuid="406">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1596">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>596</invoiceId>
+					<customerId>1596</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>60689049</cardNumber>
+							<cvc>505</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="696">
+				<menu menuid="413">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1609">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>609</invoiceId>
+					<customerId>1609</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="VISA">
+							<cardNumber>83440906</cardNumber>
+							<cvc>374</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="709">
+				<menu menuid="420">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1621">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>621</invoiceId>
+					<customerId>1621</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="Diner">
+							<cardNumber>50150775</cardNumber>
+							<cvc>849</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="721">
+				<menu menuid="423">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1623">
+		<status>Preparing</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>623</invoiceId>
+					<customerId>1623</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>37578994</cardNumber>
+							<cvc>643</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="723">
+				<menu menuid="425">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1627">
+		<status>Finished</status>
+		<totalprice>20.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>627</invoiceId>
+					<customerId>1627</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>82811342</cardNumber>
+							<cvc>284</cvc>
+						</card>
+					</cardInfo>
+					<amount>20.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="727">
+				<menu menuid="426">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1643">
+		<status>Preparing</status>
+		<totalprice>20.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>643</invoiceId>
+					<customerId>1643</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>16656719</cardNumber>
+							<cvc>193</cvc>
+						</card>
+					</cardInfo>
+					<amount>20.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="743">
+				<menu menuid="435">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1662">
+		<status>Preparing</status>
+		<totalprice>22.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>662</invoiceId>
+					<customerId>1662</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="VISA">
+							<cardNumber>74407831</cardNumber>
+							<cvc>490</cvc>
+						</card>
+					</cardInfo>
+					<amount>22.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="762">
+				<menu menuid="441">
+					<name>Hamburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1674">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>674</invoiceId>
+					<customerId>1674</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>33153161</cardNumber>
+							<cvc>250</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="774">
+				<menu menuid="446">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1689">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>689</invoiceId>
+					<customerId>1689</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="Diner">
+							<cardNumber>84670054</cardNumber>
+							<cvc>683</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="789">
+				<menu menuid="452">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1690">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>690</invoiceId>
+					<customerId>1690</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="Diner">
+							<cardNumber>55790266</cardNumber>
+							<cvc>768</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="790">
+				<menu menuid="453">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1692">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>692</invoiceId>
+					<customerId>1692</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>60461979</cardNumber>
+							<cvc>693</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="792">
+				<menu menuid="455">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1698">
+		<status>Finished</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>698</invoiceId>
+					<customerId>1698</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="VISA">
+							<cardNumber>89358010</cardNumber>
+							<cvc>485</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="798">
+				<menu menuid="459">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1701">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>701</invoiceId>
+					<customerId>1701</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Credit Card" cardCompany="MasterCard">
+							<cardNumber>46936099</cardNumber>
+							<cvc>144</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="801">
+				<menu menuid="462">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1708">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>708</invoiceId>
+					<customerId>1708</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>13089307</cardNumber>
+							<cvc>435</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="808">
+				<menu menuid="466">
+					<name>Chickenburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+	<order orderid="1728">
+		<status>Preparing</status>
+		<totalprice>21.8</totalprice>
+		<invoice>
+			<invoice>
+				<info>
+					<invoiceId>728</invoiceId>
+					<customerId>1728</customerId>
+					<created>2021-04-13 11:47:54.696</created>
+				</info>
+				<paymendDetails>
+					<cardInfo>
+						<card type="Bankomat Card" cardCompany="MasterCard">
+							<cardNumber>45873648</cardNumber>
+							<cvc>710</cvc>
+						</card>
+					</cardInfo>
+					<amount>21.8</amount>
+				</paymendDetails>
+			</invoice>
+		</invoice>
+		<orderiteminfo>
+			<orderitem orderitemid="828">
+				<menu menuid="474">
+					<name>Cheeseburger Menu</name>
+				</menu>
+			</orderitem>
+		</orderiteminfo>
+	</order>
+</orders>

@@ -1,0 +1,927 @@
+<?xml version="1.0" standalone="yes"?>
+<robot_sandra>
+  <robot_taskboard>
+    <robot_info robot_id="342">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="670">
+        <ddate>2020-06-11</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>5</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="48">
+          <ingredient_id>378</ingredient_id>
+          <scurrent>43</scurrent>
+          <snew>43</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="326">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="470">
+        <ddate>2021-03-19</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>3</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="68">
+          <ingredient_id>43</ingredient_id>
+          <scurrent>40</scurrent>
+          <snew>43</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="373">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="280">
+        <ddate>2020-05-26</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>14</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="69">
+          <ingredient_id>221</ingredient_id>
+          <scurrent>29</scurrent>
+          <snew>7</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="253">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="742">
+        <ddate>2020-01-25</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>13</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="73">
+          <ingredient_id>245</ingredient_id>
+          <scurrent>14</scurrent>
+          <snew>30</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="220">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="645">
+        <ddate>2020-12-18</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>2</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="93">
+          <ingredient_id>127</ingredient_id>
+          <scurrent>47</scurrent>
+          <snew>3</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="361">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="144">
+        <ddate>2020-11-11</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>4</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="104">
+          <ingredient_id>243</ingredient_id>
+          <scurrent>39</scurrent>
+          <snew>7</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="384">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="509">
+        <ddate>2020-04-07</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>2</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="137">
+          <ingredient_id>526</ingredient_id>
+          <scurrent>22</scurrent>
+          <snew>9</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="266">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="509">
+        <ddate>2020-04-07</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>2</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="137">
+          <ingredient_id>526</ingredient_id>
+          <scurrent>22</scurrent>
+          <snew>9</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="350">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="43">
+        <ddate>2020-08-19</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>8</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="149">
+          <ingredient_id>757</ingredient_id>
+          <scurrent>21</scurrent>
+          <snew>44</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="311">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="192">
+        <ddate>2021-03-28</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>8</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="151">
+          <ingredient_id>278</ingredient_id>
+          <scurrent>28</scurrent>
+          <snew>45</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="355">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="753">
+        <ddate>2021-01-09</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>12</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="176">
+          <ingredient_id>382</ingredient_id>
+          <scurrent>42</scurrent>
+          <snew>32</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="352">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="224">
+        <ddate>2020-11-14</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>6</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="213">
+          <ingredient_id>639</ingredient_id>
+          <scurrent>16</scurrent>
+          <snew>38</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="330">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="261">
+        <ddate>2021-03-25</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>18</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="244">
+          <ingredient_id>178</ingredient_id>
+          <scurrent>43</scurrent>
+          <snew>32</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="308">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="261">
+        <ddate>2021-03-25</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>18</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="244">
+          <ingredient_id>178</ingredient_id>
+          <scurrent>43</scurrent>
+          <snew>32</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="389">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="490">
+        <ddate>2020-06-06</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>8</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="282">
+          <ingredient_id>345</ingredient_id>
+          <scurrent>34</scurrent>
+          <snew>18</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="369">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="83">
+        <ddate>2021-03-16</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>17</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="314">
+          <ingredient_id>363</ingredient_id>
+          <scurrent>20</scurrent>
+          <snew>41</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="343">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="610">
+        <ddate>2020-10-08</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>1</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="326">
+          <ingredient_id>479</ingredient_id>
+          <scurrent>19</scurrent>
+          <snew>47</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="268">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="399">
+        <ddate>2020-12-21</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>6</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="409">
+          <ingredient_id>613</ingredient_id>
+          <scurrent>29</scurrent>
+          <snew>35</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="396">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="26">
+        <ddate>2020-07-17</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>9</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="412">
+          <ingredient_id>485</ingredient_id>
+          <scurrent>3</scurrent>
+          <snew>6</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="317">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="463">
+        <ddate>2020-04-29</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>16</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="444">
+          <ingredient_id>494</ingredient_id>
+          <scurrent>0</scurrent>
+          <snew>47</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="398">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="500">
+        <ddate>2020-10-07</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>5</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="446">
+          <ingredient_id>257</ingredient_id>
+          <scurrent>3</scurrent>
+          <snew>0</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="233">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="277">
+        <ddate>2020-02-22</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>5</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="446">
+          <ingredient_id>257</ingredient_id>
+          <scurrent>3</scurrent>
+          <snew>0</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="227">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="289">
+        <ddate>2020-01-07</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>2</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="473">
+          <ingredient_id>177</ingredient_id>
+          <scurrent>28</scurrent>
+          <snew>31</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="247">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="421">
+        <ddate>2020-05-23</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>7</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="544">
+          <ingredient_id>426</ingredient_id>
+          <scurrent>41</scurrent>
+          <snew>34</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="223">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="726">
+        <ddate>2020-10-27</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>9</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="558">
+          <ingredient_id>212</ingredient_id>
+          <scurrent>24</scurrent>
+          <snew>8</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="200">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="726">
+        <ddate>2020-10-27</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>9</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="558">
+          <ingredient_id>212</ingredient_id>
+          <scurrent>24</scurrent>
+          <snew>8</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="306">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="468">
+        <ddate>2020-03-12</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>11</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="577">
+          <ingredient_id>215</ingredient_id>
+          <scurrent>18</scurrent>
+          <snew>18</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="236">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="468">
+        <ddate>2020-03-12</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>11</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="577">
+          <ingredient_id>215</ingredient_id>
+          <scurrent>18</scurrent>
+          <snew>18</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="297">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="412">
+        <ddate>2021-02-09</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>2</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="620">
+          <ingredient_id>81</ingredient_id>
+          <scurrent>46</scurrent>
+          <snew>3</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="206">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="586">
+        <ddate>2020-05-17</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>8</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="627">
+          <ingredient_id>368</ingredient_id>
+          <scurrent>14</scurrent>
+          <snew>17</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="264">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="172">
+        <ddate>2020-07-29</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>11</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="639">
+          <ingredient_id>734</ingredient_id>
+          <scurrent>4</scurrent>
+          <snew>36</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="242">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="489">
+        <ddate>2020-12-25</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>12</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="642">
+          <ingredient_id>211</ingredient_id>
+          <scurrent>28</scurrent>
+          <snew>0</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="276">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="647">
+        <ddate>2021-01-16</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>15</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="660">
+          <ingredient_id>424</ingredient_id>
+          <scurrent>30</scurrent>
+          <snew>30</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="315">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="516">
+        <ddate>2020-11-26</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>6</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="665">
+          <ingredient_id>125</ingredient_id>
+          <scurrent>47</scurrent>
+          <snew>40</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="269">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="724">
+        <ddate>2021-04-04</ddate>
+        <vendor>FreshMarket</vendor>
+        <damount>6</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="672">
+          <ingredient_id>529</ingredient_id>
+          <scurrent>16</scurrent>
+          <snew>9</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="383">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="617">
+        <ddate>2020-12-22</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>8</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="674">
+          <ingredient_id>452</ingredient_id>
+          <scurrent>25</scurrent>
+          <snew>28</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="281">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="366">
+        <ddate>2020-06-28</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>5</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="723">
+          <ingredient_id>43</ingredient_id>
+          <scurrent>34</scurrent>
+          <snew>31</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="392">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="676">
+        <ddate>2020-05-30</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>18</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="738">
+          <ingredient_id>144</ingredient_id>
+          <scurrent>21</scurrent>
+          <snew>21</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="333">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="351">
+        <ddate>2020-02-17</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>6</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="763">
+          <ingredient_id>750</ingredient_id>
+          <scurrent>27</scurrent>
+          <snew>36</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="232">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="351">
+        <ddate>2020-02-17</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>6</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="763">
+          <ingredient_id>750</ingredient_id>
+          <scurrent>27</scurrent>
+          <snew>36</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="363">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="268">
+        <ddate>2020-01-24</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>13</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="775">
+          <ingredient_id>737</ingredient_id>
+          <scurrent>30</scurrent>
+          <snew>20</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+  <robot_taskboard>
+    <robot_info robot_id="313">
+      <rname>Sandra</rname>
+      <rtype>stock_manager</rtype>
+      <rfunction>ordering</rfunction>
+    </robot_info>
+    <delivery_info>
+      <delivery delivery_id="268">
+        <ddate>2020-01-24</ddate>
+        <vendor>Cocacola Comp.</vendor>
+        <damount>13</damount>
+      </delivery>
+      <stock_replenishment>
+        <stock_info stock_id="775">
+          <ingredient_id>737</ingredient_id>
+          <scurrent>30</scurrent>
+          <snew>20</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_replenishment>
+    </delivery_info>
+  </robot_taskboard>
+</robot_sandra>

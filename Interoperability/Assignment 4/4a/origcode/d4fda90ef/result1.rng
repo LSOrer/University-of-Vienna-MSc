@@ -1,0 +1,109 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  
+  <define name="customer_details">
+    <attribute name="customer_id">
+      <data type="int"/>
+    </attribute>
+    <interleave>
+    <element name="lname">
+      <data type="string"/>
+    </element>
+    <element name="fname">
+      <data type="string"/>
+    </element>
+    <element name="bday">
+      <data type="date"/>
+    </element>
+    </interleave>
+  </define>
+  
+  <define name="address_details">
+    <element name="City">
+      <data type="string"/>
+    </element>
+    <choice>
+      <element name="Country">
+        <optional>
+          <list>
+            <oneOrMore>
+            <data type="string"/>
+            </oneOrMore>
+          </list>
+        </optional>
+      </element>
+      <element name="State">
+        <data type="string"/>
+      </element>
+    </choice>
+  </define>
+
+  <define name="street_details">
+    <element name="Street">
+      <data type="string"/>
+    </element>
+    <element name="Number">
+      <data type="int"/>
+    </element>
+    <element name="Additional">
+      <choice>
+        <data type="string"/>
+        <data type="int"/>
+      </choice>
+    </element>
+  </define>
+
+  <define name="order_details">
+    <attribute name="order_id">
+      <data type="int"/>
+    </attribute>
+    <element name="item_id">
+      <data type="int"/>
+    </element>
+    <element name="robot_id">
+      <choice>
+        <data type="string"/>
+        <data type="int"/>
+      </choice>
+    </element>
+  </define>
+  
+  <start>
+    <element name ="customer_data">
+      <zeroOrMore>
+        <element name="customer_details">
+          <ref name="customer_details"/>
+          <element name="address">
+            <element name="Address">
+              <ref name="address_details"/>
+              <element name="Street">
+                <ref name="street_details"/>
+              </element>
+            </element>
+          </element>
+          <element name="order_data">
+                <element name="orders">
+                    <ref name="order_details"/>
+                </element>
+          </element>
+          <element name="robots">
+              <attribute name="robot_id">
+                <choice>
+                  <data type="string"/>
+                  <data type="int"/>
+                </choice>
+              </attribute>
+              <element name="rname">
+                <data type="string"/>
+              </element>
+              <element name="rtype">
+                <data type="string"/>
+              </element>
+              <element name="rfunction">
+                <data type="string"/>
+              </element>
+          </element>
+        </element>
+      </zeroOrMore>
+    </element>
+  </start>
+</grammar>

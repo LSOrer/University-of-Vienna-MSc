@@ -1,0 +1,72 @@
+XPath Queries
+
+RESULT1.XML
+
+get all customer last names
+/customer_data/customer_details/lname/text()
+
+get the first names of customers that customer_id is > 29 
+/customer_data/customer_details[@customer_id > 29]/fname/text()
+
+get the robot_id of orders where order_id is 90
+/customer_data/customer_details/order_data/orders[@order_id = 90]/robot_id/text()
+
+get the street name of customer with id 25
+/customer_data/customer_details[@customer_id=25]/address/Address/Street/Street/text()
+
+get the name of robot with id 770
+//robots[@robot_id=770]/rname
+
+get the count of how often robot "Joe" served customers
+count(//robots[rname/text()='Joe'])
+
+RESULT2.XML
+
+get the paid sum by the customers of all orders 
+sum(order_data_all/order_meta/orderdetail/Orderdetails/Total)
+
+get the total cost of all the ranch sauce in the orders
+sum(order_data_all/order_meta/orderitems[itname/text()='+ ranch']/itcost)
+
+get the number of tomatos used in burgers 
+count(order_data_all/order_meta/orderdetail/Orderdetails/OrderItems[Item1/text()='+ tomato' or Item2/text()='+ tomato' or Item3/text()='+ tomato'])
+
+get the number of how often water was ordered
+count(order_data_all/order_meta/orderdetail/Orderdetails/OrderItems[Item1/text()='Water' or Item2/text()='Water' or Item3/text()='Water'])
+
+get the order total of the order with the id = 119
+/order_data_all/order_meta[@order_id=119]/orderdetail/Orderdetails[OrderID=119]/Total/text()
+
+RESULT3.XML
+
+get the sum the item-cost of all burgerbuns
+sum(/orderitem_burgerbun/orderitem_deepdive/orderitem_meta[itname/text()='Burgerbun']/itcost)
+
+get all burgerbuns with item_id higher 700 and their item-size
+/orderitem_burgerbun/orderitem_deepdive/orderitem_meta[@item_id > 700]/itname/text() |/orderitem_burgerbun/orderitem_deepdive/orderitem_meta[@item_id > 700]/itsize/text()
+
+get the ingredient name and type of ingredient_id 34
+/orderitem_burgerbun/orderitem_deepdive/ingredient_info/ingredient[@ingredient_id = 34]/inname/text() |/orderitem_burgerbun/orderitem_deepdive/ingredient_info/ingredient[@ingredient_id = 34]/intype/text() 
+
+34
+
+get the stock_ids where the current amount of stock was bigger than the new amount 
+//stock_status/stock_info[not(scurrent>snew)]/@stock_id
+
+get the lowest (minium) current stock amount of any ingredient
+/orderitem_burgerbun/orderitem_deepdive/ingredient_info/stock_status/stock_info/scurrent/text()[not(. >/orderitem_burgerbun/orderitem_deepdive/ingredient_info/stock_status/stock_info/scurrent/text())][1]
+
+
+RESULT4.XML
+
+return a boolean if robot sandra has ordered something form Cocacola Company (true)
+/robot_sandra/robot_taskboard/robot_info/rname[text()='Sandra'] and //vendor[text()='Cocacola Comp.']
+
+get the function of robot with the id 342
+/robot_sandra/robot_taskboard/robot_info[@robot_id=342]/rfunction
+
+get all ancestors of the delivery with id = 670
+/robot_sandra/robot_taskboard/delivery_info/delivery[@delivery_id=670]/ancestor-or-self::delivery_info
+
+get all descendants of the robot_taskboard where robot_id = 311
+/robot_sandra/descendant::robot_taskboard[robot_info[@robot_id=311]]

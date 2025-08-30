@@ -1,0 +1,850 @@
+<?xml version="1.0" standalone="yes"?>
+<orderitem_burgerbun>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="354">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="108">
+        <inname>Potato</inname>
+        <intype>Side dish</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="367">
+          <scurrent>31</scurrent>
+          <snew>23</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="427">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="39">
+        <inname>Ketchup</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="675">
+          <scurrent>9</scurrent>
+          <snew>34</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="182">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="41">
+        <inname>Ground meat</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="596">
+          <scurrent>4</scurrent>
+          <snew>43</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="309">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="15">
+        <inname>Fanta syrup</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="459">
+          <scurrent>13</scurrent>
+          <snew>3</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="92">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="17">
+        <inname>Water</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="373">
+          <scurrent>18</scurrent>
+          <snew>10</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="702">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="124">
+        <inname>Pickle</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="646">
+          <scurrent>12</scurrent>
+          <snew>37</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="434">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="129">
+        <inname>Cucumber</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="391">
+          <scurrent>3</scurrent>
+          <snew>10</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="361">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="130">
+        <inname>Cucumber</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="723">
+          <scurrent>34</scurrent>
+          <snew>31</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="205">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="34">
+        <inname>Cheese</inname>
+        <inalergic>G</inalergic>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="544">
+          <scurrent>41</scurrent>
+          <snew>34</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="708">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="532">
+        <inname>Potato</inname>
+        <intype>Side dish</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="333">
+          <scurrent>49</scurrent>
+          <snew>43</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="483">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="79">
+        <inname>Mayo</inname>
+        <inalergic>C, G</inalergic>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="513">
+          <scurrent>48</scurrent>
+          <snew>24</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="681">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="169">
+        <inname>Bacon</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="520">
+          <scurrent>21</scurrent>
+          <snew>29</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="126">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="170">
+        <inname>Cucumber</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="121">
+          <scurrent>25</scurrent>
+          <snew>34</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="369">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="198">
+        <inname>Ground meat</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="629">
+          <scurrent>19</scurrent>
+          <snew>43</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="721">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="209">
+        <inname>Ground meat</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="391">
+          <scurrent>3</scurrent>
+          <snew>10</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="318">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="235">
+        <inname>Bacon</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="326">
+          <scurrent>19</scurrent>
+          <snew>47</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="374">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="251">
+        <inname>Cucumber</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="542">
+          <scurrent>9</scurrent>
+          <snew>43</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="647">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="284">
+        <inname>Pickle</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="444">
+          <scurrent>0</scurrent>
+          <snew>47</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="450">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="192">
+        <inname>Fanta syrup</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="255">
+          <scurrent>33</scurrent>
+          <snew>12</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="399">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="288">
+        <inname>Cola syrup</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="528">
+          <scurrent>31</scurrent>
+          <snew>34</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="515">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="308">
+        <inname>Fanta syrup</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="545">
+          <scurrent>6</scurrent>
+          <snew>19</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="693">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="354">
+        <inname>Water</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="663">
+          <scurrent>6</scurrent>
+          <snew>16</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="654">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="605">
+        <inname>Sprite syrup</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="774">
+          <scurrent>35</scurrent>
+          <snew>45</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="102">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="653">
+        <inname>Sprite syrup</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="157">
+          <scurrent>2</scurrent>
+          <snew>42</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="117">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="730">
+        <inname>Cola syrup</inname>
+        <intype>Drink</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="444">
+          <scurrent>0</scurrent>
+          <snew>47</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="684">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="371">
+        <inname>Lettuce</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="704">
+          <scurrent>19</scurrent>
+          <snew>42</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="581">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="420">
+        <inname>Onion</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="538">
+          <scurrent>10</scurrent>
+          <snew>32</snew>
+          <smaxcapa>10</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="237">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="453">
+        <inname>Ketchup</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="382">
+          <scurrent>46</scurrent>
+          <snew>21</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="438">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="477">
+        <inname>Bacon</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="580">
+          <scurrent>10</scurrent>
+          <snew>2</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="641">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="483">
+        <inname>Mushroom</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="13">
+          <scurrent>21</scurrent>
+          <snew>45</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="228">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="502">
+        <inname>Ketchup</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="626">
+          <scurrent>36</scurrent>
+          <snew>11</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="458">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="510">
+        <inname>Lettuce</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="488">
+          <scurrent>10</scurrent>
+          <snew>36</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="406">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="547">
+        <inname>Ground meat</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="646">
+          <scurrent>12</scurrent>
+          <snew>37</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="231">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="604">
+        <inname>Bacon</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="233">
+          <scurrent>41</scurrent>
+          <snew>31</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="313">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="647">
+        <inname>Pickle</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="263">
+          <scurrent>11</scurrent>
+          <snew>30</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="696">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="664">
+        <inname>Cucumber</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="616">
+          <scurrent>33</scurrent>
+          <snew>17</snew>
+          <smaxcapa>5</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="17">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="740">
+        <inname>Mushroom</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="454">
+          <scurrent>0</scurrent>
+          <snew>44</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="338">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="703">
+        <inname>Ranch</inname>
+        <inalergic>C, G</inalergic>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="163">
+          <scurrent>46</scurrent>
+          <snew>18</snew>
+          <smaxcapa>2</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="90">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="760">
+        <inname>Mayo</inname>
+        <inalergic>C, G</inalergic>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="25">
+          <scurrent>4</scurrent>
+          <snew>38</snew>
+          <smaxcapa>30</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="230">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="37">
+        <inname>Burgerbun</inname>
+        <inalergic>A, C, G</inalergic>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="87">
+          <scurrent>33</scurrent>
+          <snew>9</snew>
+          <smaxcapa>20</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="441">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="585">
+        <inname>Burgerbun</inname>
+        <inalergic>A, C, G</inalergic>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="37">
+          <scurrent>1</scurrent>
+          <snew>23</snew>
+          <smaxcapa>40</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="417">
+      <itname>Burgerbun</itname>
+      <itsize>u</itsize>
+      <itcost>0.5</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="612">
+        <inname>Ranch</inname>
+        <inalergic>C, G</inalergic>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="134">
+          <scurrent>22</scurrent>
+          <snew>21</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+</orderitem_burgerbun>

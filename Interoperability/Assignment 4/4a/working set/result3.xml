@@ -1,0 +1,2859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+	<menu menuid="107">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1019">
+			<drink drinkid="282">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="112">
+		<name>Cheeseburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="1034">
+			<drink drinkid="758">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="119">
+		<name>Cheeseburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="1055">
+			<drink drinkid="237">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="120">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1058">
+			<drink drinkid="474">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="122">
+		<name>Chickenburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1064">
+			<drink drinkid="424">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="126">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1076">
+			<drink drinkid="107">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="134">
+		<name>Chickenburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1100">
+			<drink drinkid="353">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="135">
+		<name>Hamburger Menu</name>
+		<price>22.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1103">
+			<drink drinkid="656">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="136">
+		<name>Chickenburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1106">
+			<drink drinkid="544">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="142">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1124">
+			<drink drinkid="524">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="143">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1127">
+			<drink drinkid="199">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="147">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1139">
+			<drink drinkid="671">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="149">
+		<name>Hamburger Menu</name>
+		<price>22.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1145">
+			<drink drinkid="219">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="150">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1148">
+			<drink drinkid="301">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="151">
+		<name>Cheeseburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1151">
+			<drink drinkid="141">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="156">
+		<name>Cheeseburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="1166">
+			<drink drinkid="744">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="164">
+		<name>Cheeseburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="1190">
+			<drink drinkid="262">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="170">
+		<name>Cheeseburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1208">
+			<drink drinkid="791">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="172">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1214">
+			<drink drinkid="202">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="175">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="1223">
+			<drink drinkid="502">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="179">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1235">
+			<drink drinkid="417">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="180">
+		<name>Cheeseburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1238">
+			<drink drinkid="309">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="181">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="1241">
+			<drink drinkid="575">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="185">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1253">
+			<drink drinkid="384">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="189">
+		<name>Hamburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1265">
+			<drink drinkid="333">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="197">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1289">
+			<drink drinkid="460">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="202">
+		<name>Chickenburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1304">
+			<drink drinkid="157">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="205">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="1313">
+			<drink drinkid="579">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="209">
+		<name>Cheeseburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="1325">
+			<drink drinkid="670">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="210">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1328">
+			<drink drinkid="189">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="215">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1343">
+			<drink drinkid="656">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="218">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="1352">
+			<drink drinkid="744">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="220">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1358">
+			<drink drinkid="329">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="225">
+		<name>Hamburger Menu</name>
+		<price>14</price>
+		<size>Small</size>
+		<menuitem menuitemid="1373">
+			<drink drinkid="561">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="231">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1391">
+			<drink drinkid="590">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="233">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="1397">
+			<drink drinkid="495">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="235">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1403">
+			<drink drinkid="725">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="239">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1415">
+			<drink drinkid="152">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="240">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1418">
+			<drink drinkid="745">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="242">
+		<name>Chickenburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1424">
+			<drink drinkid="364">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="243">
+		<name>Cheeseburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="1427">
+			<drink drinkid="432">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="245">
+		<name>Hamburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1433">
+			<drink drinkid="620">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="246">
+		<name>Chickenburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1436">
+			<drink drinkid="750">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="250">
+		<name>Hamburger Menu</name>
+		<price>14</price>
+		<size>Small</size>
+		<menuitem menuitemid="1448">
+			<drink drinkid="229">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="253">
+		<name>Cheeseburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="1457">
+			<drink drinkid="640">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="259">
+		<name>Cheeseburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1475">
+			<drink drinkid="699">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="267">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1499">
+			<drink drinkid="739">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="270">
+		<name>Hamburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1508">
+			<drink drinkid="567">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="271">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1511">
+			<drink drinkid="795">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="272">
+		<name>Hamburger Menu</name>
+		<price>18.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1514">
+			<drink drinkid="785">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="274">
+		<name>Hamburger Menu</name>
+		<price>22.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1520">
+			<drink drinkid="686">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="281">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1541">
+			<drink drinkid="105">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="286">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="1556">
+			<drink drinkid="546">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="290">
+		<name>Chickenburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1568">
+			<drink drinkid="716">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="291">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1571">
+			<drink drinkid="143">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="295">
+		<name>Hamburger Menu</name>
+		<price>16.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1583">
+			<drink drinkid="515">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="305">
+		<name>Hamburger Menu</name>
+		<price>20.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1613">
+			<drink drinkid="286">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="308">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="1622">
+			<drink drinkid="497">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="309">
+		<name>Hamburger Menu</name>
+		<price>18.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1625">
+			<drink drinkid="202">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="310">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="1628">
+			<drink drinkid="497">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="311">
+		<name>Hamburger Menu</name>
+		<price>20.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1631">
+			<drink drinkid="318">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="312">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1634">
+			<drink drinkid="444">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="316">
+		<name>Cheeseburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1646">
+			<drink drinkid="509">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="317">
+		<name>Cheeseburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="1649">
+			<drink drinkid="558">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="320">
+		<name>Cheeseburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1658">
+			<drink drinkid="559">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="332">
+		<name>Cheeseburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="1694">
+			<drink drinkid="367">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="333">
+		<name>Cheeseburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1697">
+			<drink drinkid="598">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="335">
+		<name>Cheeseburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1703">
+			<drink drinkid="634">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="338">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="1712">
+			<drink drinkid="170">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="339">
+		<name>Hamburger Menu</name>
+		<price>14</price>
+		<size>Small</size>
+		<menuitem menuitemid="1715">
+			<drink drinkid="326">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="340">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1718">
+			<drink drinkid="165">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="342">
+		<name>Chickenburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="1724">
+			<drink drinkid="267">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="346">
+		<name>Chickenburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1736">
+			<drink drinkid="160">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="349">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="1745">
+			<drink drinkid="179">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="351">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1751">
+			<drink drinkid="117">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="355">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1763">
+			<drink drinkid="161">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="360">
+		<name>Chickenburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1778">
+			<drink drinkid="272">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="364">
+		<name>Chickenburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1790">
+			<drink drinkid="491">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="372">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1814">
+			<drink drinkid="638">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="375">
+		<name>Hamburger Menu</name>
+		<price>14</price>
+		<size>Small</size>
+		<menuitem menuitemid="1823">
+			<drink drinkid="642">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="381">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1841">
+			<drink drinkid="355">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="382">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1844">
+			<drink drinkid="364">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="392">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="1874">
+			<drink drinkid="389">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="393">
+		<name>Hamburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1877">
+			<drink drinkid="634">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="394">
+		<name>Cheeseburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1880">
+			<drink drinkid="651">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="395">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1883">
+			<drink drinkid="790">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="398">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1892">
+			<drink drinkid="638">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="400">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1898">
+			<drink drinkid="161">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="401">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="1901">
+			<drink drinkid="338">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="402">
+		<name>Cheeseburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1904">
+			<drink drinkid="301">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="406">
+		<name>Chickenburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1916">
+			<drink drinkid="745">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="407">
+		<name>Hamburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="1919">
+			<drink drinkid="712">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="410">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1928">
+			<drink drinkid="526">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="412">
+		<name>Cheeseburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1934">
+			<drink drinkid="219">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="417">
+		<name>Hamburger Menu</name>
+		<price>14.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1949">
+			<drink drinkid="504">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="418">
+		<name>Cheeseburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="1952">
+			<drink drinkid="513">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="426">
+		<name>Hamburger Menu</name>
+		<price>20.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="1976">
+			<drink drinkid="780">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="427">
+		<name>Cheeseburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="1979">
+			<drink drinkid="133">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="430">
+		<name>Chickenburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="1988">
+			<drink drinkid="690">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="437">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2009">
+			<drink drinkid="343">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="438">
+		<name>Hamburger Menu</name>
+		<price>18.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2012">
+			<drink drinkid="218">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="443">
+		<name>Cheeseburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2027">
+			<drink drinkid="706">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="444">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2030">
+			<drink drinkid="206">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="448">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2042">
+			<drink drinkid="784">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="449">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="2045">
+			<drink drinkid="136">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="458">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2072">
+			<drink drinkid="531">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="463">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2087">
+			<drink drinkid="339">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="464">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2090">
+			<drink drinkid="107">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="472">
+		<name>Hamburger Menu</name>
+		<price>14.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2114">
+			<drink drinkid="163">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="474">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2120">
+			<drink drinkid="192">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="478">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2132">
+			<drink drinkid="322">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="480">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2138">
+			<drink drinkid="715">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="481">
+		<name>Hamburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="2141">
+			<drink drinkid="308">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="483">
+		<name>Cheeseburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2147">
+			<drink drinkid="695">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="484">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="2150">
+			<drink drinkid="691">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="488">
+		<name>Chickenburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2162">
+			<drink drinkid="521">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="489">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="2165">
+			<drink drinkid="395">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="493">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2177">
+			<drink drinkid="547">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="495">
+		<name>Hamburger Menu</name>
+		<price>18.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2183">
+			<drink drinkid="645">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="504">
+		<name>Hamburger Menu</name>
+		<price>18.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2210">
+			<drink drinkid="387">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="509">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2225">
+			<drink drinkid="139">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="517">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2249">
+			<drink drinkid="457">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="518">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2252">
+			<drink drinkid="557">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="520">
+		<name>Cheeseburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="2258">
+			<drink drinkid="255">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="525">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2273">
+			<drink drinkid="717">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="531">
+		<name>Hamburger Menu</name>
+		<price>14.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2291">
+			<drink drinkid="720">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="532">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2294">
+			<drink drinkid="283">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="535">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2303">
+			<drink drinkid="117">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="536">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2306">
+			<drink drinkid="490">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="540">
+		<name>Cheeseburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2318">
+			<drink drinkid="356">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="541">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2321">
+			<drink drinkid="707">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="547">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2339">
+			<drink drinkid="460">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="549">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="2345">
+			<drink drinkid="389">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="551">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2351">
+			<drink drinkid="765">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="554">
+		<name>Chickenburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2360">
+			<drink drinkid="309">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="555">
+		<name>Chickenburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2363">
+			<drink drinkid="554">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="556">
+		<name>Hamburger Menu</name>
+		<price>21</price>
+		<size>Small</size>
+		<menuitem menuitemid="2366">
+			<drink drinkid="133">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="560">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2378">
+			<drink drinkid="604">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="563">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="2387">
+			<drink drinkid="383">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="571">
+		<name>Hamburger Menu</name>
+		<price>14.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2411">
+			<drink drinkid="653">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="572">
+		<name>Cheeseburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2414">
+			<drink drinkid="490">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="575">
+		<name>Hamburger Menu</name>
+		<price>22.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2423">
+			<drink drinkid="164">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="577">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2429">
+			<drink drinkid="197">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="587">
+		<name>Hamburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2459">
+			<drink drinkid="548">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="589">
+		<name>Cheeseburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="2465">
+			<drink drinkid="495">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="598">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="2492">
+			<drink drinkid="445">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="604">
+		<name>Hamburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2510">
+			<drink drinkid="519">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="609">
+		<name>Hamburger Menu</name>
+		<price>16.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2525">
+			<drink drinkid="199">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="611">
+		<name>Cheeseburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2531">
+			<drink drinkid="272">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="618">
+		<name>Chickenburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2552">
+			<drink drinkid="218">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="619">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="2555">
+			<drink drinkid="383">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="620">
+		<name>Chickenburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2558">
+			<drink drinkid="317">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="626">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2576">
+			<drink drinkid="488">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="631">
+		<name>Hamburger Menu</name>
+		<price>14</price>
+		<size>Small</size>
+		<menuitem menuitemid="2591">
+			<drink drinkid="166">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="640">
+		<name>Hamburger Menu</name>
+		<price>18.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2618">
+			<drink drinkid="641">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="644">
+		<name>Hamburger Menu</name>
+		<price>22.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2630">
+			<drink drinkid="598">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="647">
+		<name>Hamburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2639">
+			<drink drinkid="774">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="649">
+		<name>Chickenburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2645">
+			<drink drinkid="458">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="651">
+		<name>Hamburger Menu</name>
+		<price>14.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2651">
+			<drink drinkid="589">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="664">
+		<name>Hamburger Menu</name>
+		<price>14</price>
+		<size>Small</size>
+		<menuitem menuitemid="2690">
+			<drink drinkid="497">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="670">
+		<name>Chickenburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="2708">
+			<drink drinkid="398">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="675">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2723">
+			<drink drinkid="107">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="680">
+		<name>Chickenburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="2738">
+			<drink drinkid="110">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="685">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="2753">
+			<drink drinkid="383">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="693">
+		<name>Cheeseburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2777">
+			<drink drinkid="554">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="695">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2783">
+			<drink drinkid="355">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="698">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2792">
+			<drink drinkid="652">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="700">
+		<name>Hamburger Menu</name>
+		<price>18.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2798">
+			<drink drinkid="417">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="701">
+		<name>Chickenburger Menu</name>
+		<price>12.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2801">
+			<drink drinkid="321">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="703">
+		<name>Cheeseburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2807">
+			<drink drinkid="614">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="706">
+		<name>Cheeseburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="2816">
+			<drink drinkid="378">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="707">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2819">
+			<drink drinkid="597">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="711">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="2831">
+			<drink drinkid="495">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="712">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2834">
+			<drink drinkid="656">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="717">
+		<name>Hamburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2849">
+			<drink drinkid="250">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="720">
+		<name>Cheeseburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="2858">
+			<drink drinkid="338">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="729">
+		<name>Cheeseburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2885">
+			<drink drinkid="790">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="735">
+		<name>Hamburger Menu</name>
+		<price>20.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2903">
+			<drink drinkid="780">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="737">
+		<name>Hamburger Menu</name>
+		<price>21</price>
+		<size>Small</size>
+		<menuitem menuitemid="2909">
+			<drink drinkid="516">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="738">
+		<name>Cheeseburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2912">
+			<drink drinkid="629">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="743">
+		<name>Chickenburger Menu</name>
+		<price>17</price>
+		<size>Small</size>
+		<menuitem menuitemid="2927">
+			<drink drinkid="473">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="745">
+		<name>Chickenburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="2933">
+			<drink drinkid="626">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="748">
+		<name>Chickenburger Menu</name>
+		<price>21.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2942">
+			<drink drinkid="339">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="755">
+		<name>Cheeseburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="2963">
+			<drink drinkid="533">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="757">
+		<name>Chickenburger Menu</name>
+		<price>20</price>
+		<size>Small</size>
+		<menuitem menuitemid="2969">
+			<drink drinkid="395">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="759">
+		<name>Chickenburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2975">
+			<drink drinkid="453">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="764">
+		<name>Chickenburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="2990">
+			<drink drinkid="222">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="765">
+		<name>Cheeseburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="2993">
+			<drink drinkid="603">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="779">
+		<name>Hamburger Menu</name>
+		<price>13.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="3035">
+			<drink drinkid="225">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="780">
+		<name>Cheeseburger Menu</name>
+		<price>15.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3038">
+			<drink drinkid="312">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="788">
+		<name>Cheeseburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3062">
+			<drink drinkid="160">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="803">
+		<name>Chickenburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="3107">
+			<drink drinkid="497">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="814">
+		<name>Hamburger Menu</name>
+		<price>14</price>
+		<size>Small</size>
+		<menuitem menuitemid="3140">
+			<drink drinkid="262">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="823">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3167">
+			<drink drinkid="335">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="825">
+		<name>Chickenburger Menu</name>
+		<price>17.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="3173">
+			<drink drinkid="645">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="834">
+		<name>Chickenburger Menu</name>
+		<price>19.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3200">
+			<drink drinkid="157">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="835">
+		<name>Cheeseburger Menu</name>
+		<price>16</price>
+		<size>Small</size>
+		<menuitem menuitemid="3203">
+			<drink drinkid="758">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="851">
+		<name>Cheeseburger Menu</name>
+		<price>13</price>
+		<size>Small</size>
+		<menuitem menuitemid="3251">
+			<drink drinkid="561">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="852">
+		<name>Chickenburger Menu</name>
+		<price>17.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3254">
+			<drink drinkid="446">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="859">
+		<name>Hamburger Menu</name>
+		<price>18</price>
+		<size>Small</size>
+		<menuitem menuitemid="3275">
+			<drink drinkid="643">
+				<drinkinfo>
+					<name>Sprite</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="869">
+		<name>Cheeseburger Menu</name>
+		<price>16.9</price>
+		<size>Small</size>
+		<menuitem menuitemid="3305">
+			<drink drinkid="773">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Small</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="873">
+		<name>Hamburger Menu</name>
+		<price>20.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3317">
+			<drink drinkid="280">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="874">
+		<name>Hamburger Menu</name>
+		<price>16.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3320">
+			<drink drinkid="282">
+				<drinkinfo>
+					<name>Coca Cola</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+	<menu menuid="877">
+		<name>Hamburger Menu</name>
+		<price>18.8</price>
+		<size>Small</size>
+		<menuitem menuitemid="3329">
+			<drink drinkid="329">
+				<drinkinfo>
+					<name>Fanta</name>
+					<size>Big</size>
+				</drinkinfo>
+				<ice>true</ice>
+			</drink>
+		</menuitem>
+	</menu>
+</menus>

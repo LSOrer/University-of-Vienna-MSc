@@ -1,0 +1,98 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  
+  <define name="robot_status">
+    <element name="robot_powerstatus">
+        <data type="float"/>
+    </element>
+    <element name="robot_warrenty_valid">
+        <data type="boolean"/>
+    </element>
+  </define>
+  
+  <define name="stock_info">
+    <attribute name="stock_id">
+        <data type="int"/>
+    </attribute>
+    <interleave>
+    <element name="ingredient_id">
+        <data type="int"/>
+    </element>
+    <element name="scurrent">
+      <data type="int"/>
+    </element>
+    <element name="snew">
+        <data type="int"/>
+    </element>
+    <choice>
+      <element name="smaxcapa">
+        <optional>
+          <list>
+            <oneOrMore>
+            <data type="int"/>
+            </oneOrMore>
+          </list>
+        </optional>
+      </element>
+    </choice>
+    </interleave>
+  </define>
+
+  <define name="delivery_info">
+    <attribute name="delivery_id">
+      <data type="int"/>
+    </attribute>
+    <interleave>
+    <element name="ddate">
+      <data type="date"/>
+    </element>
+    <element name="vendor">
+      <data type="string"/>
+    </element>
+    <element name="damount">
+      <choice>
+        <data type="int"/>
+        <data type="double"/>
+      </choice>
+    </element>
+    </interleave>
+  </define>
+
+  <define name="robot_info">
+    <attribute name="robot_id">
+      <data type="int"/>
+    </attribute>
+    <element name="rname">
+      <data type="string"/>
+    </element>
+    <optional>
+    <element name="rtype">
+        <data type="string"/>
+    </element>
+    </optional>
+    <element name="rfunction">
+      <data type="string"/>
+    </element>
+  </define>
+  
+    <start>
+        <element name="robot_sandra">
+            <oneOrMore>
+                <element name ="robot_taskboard">
+                    <element name="robot_info">
+                        <ref name="robot_info"/>
+                    </element>
+                    <element name="delivery_info">
+                        <element name="delivery">
+                            <ref name="delivery_info"/>   
+                        </element>
+                        <element name="stock_replenishment">
+                            <element name ="stock_info">
+                                <ref name="stock_info"/>
+                            </element>
+                        </element>
+                    </element>
+                </element>
+            </oneOrMore>
+        </element>
+    </start>
+</grammar>

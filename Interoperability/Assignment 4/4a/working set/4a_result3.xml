@@ -1,0 +1,3803 @@
+<?xml version="1.0"?>
+<orderitem_burgerbun>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="104">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1006">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="105">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1009">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="106">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1012">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="109">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1018">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="111">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1021">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="112">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1024">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="114">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1030">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="116">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1036">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="117">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1039">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="120">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1042">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="123">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1048">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="126">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1051">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="130">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1054">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="138">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1063">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="143">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1075">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="145">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1078">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="147">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1084">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="149">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1090">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="151">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1096">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="157">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1102">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="160">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1105">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="161">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1108">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="165">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1114">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="166">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1117">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="167">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1120">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="173">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1126">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="195">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1147">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="201">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1156">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="204">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1159">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="210">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1165">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="221">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1177">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="228">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1189">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="230">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1192">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="233">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1195">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="236">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1198">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="238">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1201">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="239">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1204">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="246">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1216">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="256">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1222">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="258">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1228">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="262">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1237">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="266">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1243">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="269">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1252">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="270">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1255">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="271">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1258">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="275">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1264">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="281">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1273">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="284">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1282">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="287">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1291">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="288">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1294">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="289">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1297">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="290">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1300">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="291">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1303">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="295">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1309">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="297">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1315">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="300">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1321">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="302">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1327">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="305">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1333">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="307">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1339">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="310">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1342">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="313">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1348">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="315">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1351">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="322">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1366">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="334">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1375">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="336">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1378">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="339">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1381">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="345">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1390">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="347">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1396">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="350">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1399">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="353">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1405">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="356">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1408">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="361">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1414">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="367">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1420">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="381">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1429">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="386">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1444">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="387">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1447">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="390">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1450">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="392">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1453">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="395">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1459">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="396">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1462">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="397">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1465">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="409">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1480">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="412">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1486">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="415">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1489">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="418">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1498">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="419">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1501">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="421">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1507">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="424">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1513">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="428">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1516">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="437">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1531">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="438">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1534">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="443">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1540">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="447">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1552">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="450">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1555">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="452">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1558">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="455">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1567">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="458">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1573">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="466">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1585">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="469">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1588">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="472">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1591">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="473">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1594">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="479">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1597">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="480">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1600">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="484">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1609">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="485">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1612">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="487">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1615">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="494">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1627">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="495">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1630">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="503">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1642">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="505">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1645">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="508">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1651">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="509">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1654">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="511">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1657">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="518">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1669">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="519">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1672">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="528">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1687">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="536">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1696">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="549">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1708">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="550">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1711">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="555">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1717">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="564">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1729">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="565">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1732">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="566">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1735">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="570">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1744">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="571">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1747">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="572">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1750">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="573">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1753">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="579">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1765">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="585">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1777">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="587">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1780">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="595">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1792">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="598">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1795">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="599">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1798">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="601">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1801">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="613">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1813">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="616">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1822">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="619">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1825">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="620">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1828">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="628">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1837">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="630">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1840">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="635">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1846">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="637">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1849">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="640">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1852">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="647">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1861">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="653">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1870">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="655">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1876">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="658">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1882">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="663">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1888">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="665">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1891">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="668">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1900">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="683">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1918">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="686">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1924">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="691">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1930">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="694">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1936">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="699">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1945">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="700">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1948">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="702">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1951">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="715">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1963">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="720">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1966">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="721">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1969">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="722">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1972">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="728">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1981">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="729">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1984">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="732">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1987">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="734">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1990">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="737">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1996">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="739">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="1999">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="743">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2005">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="750">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2008">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="753">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2011">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="754">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2014">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="756">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2017">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="760">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2020">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="762">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2023">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="773">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2035">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="782">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2047">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="785">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2050">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="789">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2056">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="802">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2089">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="808">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2098">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="812">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2104">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="816">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2107">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="818">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2110">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="830">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2128">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="833">
+      <itname>Hamburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2131">
+        <inname>Hamburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="836">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2137">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="847">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2155">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="864">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2161">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="870">
+      <itname>Cheeseburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2173">
+        <inname>Cheeseburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+  <orderitem_deepdive>
+    <orderitem_meta item_id="874">
+      <itname>Chickenburger Menu</itname>
+      <itsize>Small</itsize>
+      <itcost>15.8</itcost>
+    </orderitem_meta>
+    <ingredient_info>
+      <ingredient ingredient_id="2176">
+        <inname>Chickenburger</inname>
+        <intype>Burger</intype>
+      </ingredient>
+      <stock_status>
+        <stock_info stock_id="1">
+          <scurrent>20</scurrent>
+          <snew>30</snew>
+          <smaxcapa>50</smaxcapa>
+        </stock_info>
+      </stock_status>
+    </ingredient_info>
+  </orderitem_deepdive>
+</orderitem_burgerbun>

@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<order orderid="1001">
+		<customer customerid="1001">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Green</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">0</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>22.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="101">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1005">
+		<customer customerid="1005">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Waltham</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Adelaide Avenue</name>
+							<number type="buildingNumber">4</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="105">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1008">
+		<customer customerid="1008">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Rachel</given_name>
+						<family_name>Waltham</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">7</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="108">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1014">
+		<customer customerid="1014">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emily</given_name>
+						<family_name>Wheeler</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">13</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="114">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1017">
+		<customer customerid="1017">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emily</given_name>
+						<family_name>Garrett</family_name>
+					</name>
+					<address zip="94016" country="USA">
+						<city>San Francisco</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">16</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="117">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1020">
+		<customer customerid="1020">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Rachel</given_name>
+						<family_name>Geller</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Greenpark Avenue</name>
+							<number type="buildingNumber">19</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="120">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1039">
+		<customer customerid="1039">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emily</given_name>
+						<family_name>Green</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">38</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="139">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1045">
+		<customer customerid="1045">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Geller</family_name>
+					</name>
+					<address zip="94088" country="USA">
+						<city>San Jose</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">44</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:05:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="145">
+					<info>
+						<quantity>1</quantity>
+						<duration>18min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1049">
+		<customer customerid="1049">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emma</given_name>
+						<family_name>Miller</family_name>
+					</name>
+					<address zip="94016" country="USA">
+						<city>San Francisco</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">48</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="149">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1050">
+		<customer customerid="1050">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Willick</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">49</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="150">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1060">
+		<customer customerid="1060">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Geller</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">59</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>22.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="160">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1063">
+		<customer customerid="1063">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Janice</given_name>
+						<family_name>Stevens</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Greenpark Avenue</name>
+							<number type="buildingNumber">62</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.65</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.65</orderendtime>
+			<items>
+				<orderitem orderitemid="163">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1067">
+		<customer customerid="1067">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Janice</given_name>
+						<family_name>Heckles</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">66</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="167">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1095">
+		<customer customerid="1095">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emma</given_name>
+						<family_name>Wheeler</family_name>
+					</name>
+					<address zip="94088" country="USA">
+						<city>San Jose</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">94</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>22.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="195">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1101">
+		<customer customerid="1101">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emma</given_name>
+						<family_name>Stevens</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">100</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="201">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1112">
+		<customer customerid="1112">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Burke</family_name>
+					</name>
+					<address zip="94088" country="USA">
+						<city>San Jose</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">111</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="212">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1122">
+		<customer customerid="1122">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Rachel</given_name>
+						<family_name>Geller</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">121</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="222">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1126">
+		<customer customerid="1126">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Buffay</family_name>
+					</name>
+					<address zip="92240" country="USA">
+						<city>Palm Springs</city>
+						<street>
+							<name>Adelaide Avenue</name>
+							<number type="buildingNumber">125</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:05:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="226">
+					<info>
+						<quantity>1</quantity>
+						<duration>18min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1133">
+		<customer customerid="1133">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emily</given_name>
+						<family_name>Willick</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>Abby Park Street</name>
+							<number type="buildingNumber">132</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="233">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1136">
+		<customer customerid="1136">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Buffay</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">135</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="236">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1143">
+		<customer customerid="1143">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Burke</family_name>
+					</name>
+					<address zip="92240" country="USA">
+						<city>Palm Springs</city>
+						<street>
+							<name>Greenpark Avenue</name>
+							<number type="buildingNumber">142</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="243">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1169">
+		<customer customerid="1169">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Buffay</family_name>
+					</name>
+					<address zip="92240" country="USA">
+						<city>Palm Springs</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">168</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="269">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1175">
+		<customer customerid="1175">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Hannigan</family_name>
+					</name>
+					<address zip="94016" country="USA">
+						<city>San Francisco</city>
+						<street>
+							<name>Adelaide Avenue</name>
+							<number type="buildingNumber">174</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="275">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1182">
+		<customer customerid="1182">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Burke</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">181</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="282">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1185">
+		<customer customerid="1185">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Stevens</family_name>
+					</name>
+					<address zip="92240" country="USA">
+						<city>Palm Springs</city>
+						<street>
+							<name>Abby Park Street</name>
+							<number type="buildingNumber">184</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="285">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1186">
+		<customer customerid="1186">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Janice</given_name>
+						<family_name>Wheeler</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>Abby Park Street</name>
+							<number type="buildingNumber">185</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="286">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1189">
+		<customer customerid="1189">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Green</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Abby Park Street</name>
+							<number type="buildingNumber">188</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="289">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1190">
+		<customer customerid="1190">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Hosenstein</family_name>
+					</name>
+					<address zip="94088" country="USA">
+						<city>San Jose</city>
+						<street>
+							<name>Adelaide Avenue</name>
+							<number type="buildingNumber">189</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="290">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1193">
+		<customer customerid="1193">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Rachel</given_name>
+						<family_name>Miller</family_name>
+					</name>
+					<address zip="94016" country="USA">
+						<city>San Francisco</city>
+						<street>
+							<name>Abby Park Street</name>
+							<number type="buildingNumber">192</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="293">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1196">
+		<customer customerid="1196">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Rachel</given_name>
+						<family_name>Wheeler</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">195</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="296">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1207">
+		<customer customerid="1207">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emily</given_name>
+						<family_name>Waltham</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">206</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>22.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="307">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1210">
+		<customer customerid="1210">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Heckles</family_name>
+					</name>
+					<address zip="94088" country="USA">
+						<city>San Jose</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">209</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="310">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1212">
+		<customer customerid="1212">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Willick</family_name>
+					</name>
+					<address zip="92240" country="USA">
+						<city>Palm Springs</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">211</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="312">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1215">
+		<customer customerid="1215">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emily</given_name>
+						<family_name>Heckles</family_name>
+					</name>
+					<address zip="92240" country="USA">
+						<city>Palm Springs</city>
+						<street>
+							<name>Abby Park Street</name>
+							<number type="buildingNumber">214</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="315">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1221">
+		<customer customerid="1221">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Burke</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">220</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="321">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1223">
+		<customer customerid="1223">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Hannigan</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>Adelaide Avenue</name>
+							<number type="buildingNumber">222</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="323">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1239">
+		<customer customerid="1239">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Bing</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">238</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.9</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="339">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1243">
+		<customer customerid="1243">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Garrett</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">242</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.9</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:04:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="343">
+					<info>
+						<quantity>1</quantity>
+						<duration>17min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1253">
+		<customer customerid="1253">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Miller</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">252</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:04:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="353">
+					<info>
+						<quantity>1</quantity>
+						<duration>17min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1267">
+		<customer customerid="1267">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Heckles</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">266</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="367">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1275">
+		<customer customerid="1275">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Rachel</given_name>
+						<family_name>Tribianni</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">274</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="375">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1281">
+		<customer customerid="1281">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Janice</given_name>
+						<family_name>Bing</family_name>
+					</name>
+					<address zip="94016" country="USA">
+						<city>San Francisco</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">280</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="381">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1293">
+		<customer customerid="1293">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Buffay</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">292</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>22.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="393">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1296">
+		<customer customerid="1296">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Tribianni</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">295</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="396">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1300">
+		<customer customerid="1300">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Janice</given_name>
+						<family_name>Garrett</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">299</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="400">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1301">
+		<customer customerid="1301">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Willick</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">300</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:05:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="401">
+					<info>
+						<quantity>1</quantity>
+						<duration>18min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1303">
+		<customer customerid="1303">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emily</given_name>
+						<family_name>Willick</family_name>
+					</name>
+					<address zip="92240" country="USA">
+						<city>Palm Springs</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">302</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.665</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.665</orderendtime>
+			<items>
+				<orderitem orderitemid="403">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1312">
+		<customer customerid="1312">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Rachel</given_name>
+						<family_name>Stevens</family_name>
+					</name>
+					<address zip="94016" country="USA">
+						<city>San Francisco</city>
+						<street>
+							<name>Adelaide Avenue</name>
+							<number type="buildingNumber">311</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="412">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1321">
+		<customer customerid="1321">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Hosenstein</family_name>
+					</name>
+					<address zip="94088" country="USA">
+						<city>San Jose</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">320</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="421">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1328">
+		<customer customerid="1328">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Tribianni</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">327</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.9</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="428">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1330">
+		<customer customerid="1330">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Tribianni</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">329</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:06:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="430">
+					<info>
+						<quantity>1</quantity>
+						<duration>19min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1332">
+		<customer customerid="1332">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Willick</family_name>
+					</name>
+					<address zip="90001" country="USA">
+						<city>Los Angeles</city>
+						<street>
+							<name>Greenpark Avenue</name>
+							<number type="buildingNumber">331</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>22.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:09:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="432">
+					<info>
+						<quantity>1</quantity>
+						<duration>22min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1337">
+		<customer customerid="1337">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Waltham</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>Mayores Road</name>
+							<number type="buildingNumber">336</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="437">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1338">
+		<customer customerid="1338">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Ursula</given_name>
+						<family_name>Bing</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">337</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="438">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1344">
+		<customer customerid="1344">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emma</given_name>
+						<family_name>Garrett</family_name>
+					</name>
+					<address zip="94088" country="USA">
+						<city>San Jose</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">343</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="444">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1358">
+		<customer customerid="1358">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Judy</given_name>
+						<family_name>Heckles</family_name>
+					</name>
+					<address zip="93101" country="USA">
+						<city>Santa Barbara</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">357</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>21.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="458">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1373">
+		<customer customerid="1373">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Monica</given_name>
+						<family_name>Waltham</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>California Street</name>
+							<number type="buildingNumber">372</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:05:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="473">
+					<info>
+						<quantity>1</quantity>
+						<duration>18min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1380">
+		<customer customerid="1380">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Phoebe</given_name>
+						<family_name>Garrett</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>East Hills Avenue</name>
+							<number type="buildingNumber">379</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>19.8</totalprice>
+			<status>Finished</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:08:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="480">
+					<info>
+						<quantity>1</quantity>
+						<duration>21min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1385">
+		<customer customerid="1385">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Emma</given_name>
+						<family_name>Burke</family_name>
+					</name>
+					<address zip="10001" country="USA">
+						<city>New York</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">384</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>18.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="485">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+	<order orderid="1387">
+		<customer customerid="1387">
+			<contactdetails>
+				<address>
+					<name>
+						<given_name>Janice</given_name>
+						<family_name>Tribianni</family_name>
+					</name>
+					<address zip="90263" country="USA">
+						<city>Malibu</city>
+						<street>
+							<name>New Street</name>
+							<number type="buildingNumber">386</number>
+						</street>
+					</address>
+				</address>
+			</contactdetails>
+		</customer>
+		<orderinfo>
+			<totalprice>20.8</totalprice>
+			<status>Preparing</status>
+			<orderstarttime>2021-04-13T11:47:54.681</orderstarttime>
+			<orderendtime>2021-04-13T12:07:54.681</orderendtime>
+			<items>
+				<orderitem orderitemid="487">
+					<info>
+						<quantity>1</quantity>
+						<duration>20min</duration>
+					</info>
+				</orderitem>
+			</items>
+		</orderinfo>
+	</order>
+</orders>

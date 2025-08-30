@@ -1,0 +1,93 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  
+  <define name="order_extras">
+    <element name="order_extra">
+        <data type="string"/>
+    </element>
+    <element name="order_note">
+        <data type="string"/>
+    </element>
+  </define>
+  
+  <define name="stock_status">
+    <attribute name="stock_id">
+        <data type="int"/>
+    </attribute>
+    <interleave>
+    <element name="scurrent">
+      <data type="int"/>
+    </element>
+    <element name="snew">
+        <data type="int"/>
+    </element>
+    <choice>
+      <element name="smaxcapa">
+        <optional>
+          <list>
+            <oneOrMore>
+            <data type="int"/>
+            </oneOrMore>
+          </list>
+        </optional>
+      </element>
+    </choice>
+    </interleave>
+  </define>
+
+  <define name="orderitems">
+    <attribute name="item_id">
+      <data type="int"/>
+    </attribute>
+    <element name="itname">
+      <data type="string"/>
+    </element>
+    <element name="itsize">
+      <data type="string"/>
+    </element>
+    <element name="itcost">
+      <choice>
+        <data type="float"/>
+        <data type="double"/>
+      </choice>
+    </element>
+  </define>
+
+  <define name="ingredients">
+    <attribute name="ingredient_id">
+      <data type="int"/>
+    </attribute>
+    <element name="inname">
+      <data type="string"/>
+    </element>
+    <optional>
+    <element name="inalergic">
+        <data type="string"/>
+    </element>
+    </optional>
+    <element name="intype">
+      <data type="string"/>
+    </element>
+  </define>
+  
+    <start>
+        <element name="orderitem_burgerbun">
+            <oneOrMore>
+                <element name ="orderitem_deepdive">
+                    <element name="orderitem_meta">
+                        <ref name="orderitems"/>
+                    </element>
+                    <element name="ingredient_info">
+                        <element name="ingredient">
+                            <ref name="ingredients"/>   
+                        </element>
+                        <element name="stock_status">
+                            <element name ="stock_info">
+                                <ref name="stock_status"/>
+                            </element>
+                        </element>
+                    </element>
+                </element>
+            </oneOrMore>
+        </element>
+    </start>
+</grammar>

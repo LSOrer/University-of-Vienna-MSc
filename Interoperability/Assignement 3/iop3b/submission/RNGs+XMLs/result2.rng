@@ -1,0 +1,101 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  
+  <define name="order_meta">
+    <attribute name="order_id">
+      <data type="int"/>
+    </attribute>
+    <element name="order_date">
+      <data type="date"/>
+    </element>
+  </define>
+  
+  <define name="OrderItems">
+    <interleave>
+    <element name="Item1">
+      <data type="string"/>
+    </element>
+    <element name="Item2">
+        <data type="string"/>
+    </element>
+    <choice>
+      <element name="Item3">
+        <optional>
+          <list>
+            <oneOrMore>
+            <data type="string"/>
+            </oneOrMore>
+          </list>
+        </optional>
+      </element>
+    </choice>
+    </interleave>
+  </define>
+
+  <define name="orderitems">
+    <attribute name="item_id">
+      <data type="int"/>
+    </attribute>
+    <element name="itname">
+      <data type="string"/>
+    </element>
+    <element name="itsize">
+      <data type="string"/>
+    </element>
+    <element name="itcost">
+      <choice>
+        <data type="float"/>
+        <data type="double"/>
+      </choice>
+    </element>
+  </define>
+
+  <define name="ingredients">
+    <attribute name="ingredient_id">
+      <data type="int"/>
+    </attribute>
+    <element name="inname">
+      <data type="string"/>
+    </element>
+    <optional>
+    <element name="inalergic">
+        <data type="string"/>
+    </element>
+    </optional>
+    <element name="intype">
+      <data type="string"/>
+    </element>
+  </define>
+  
+    <start>
+        <element name ="order_data_all">
+            <zeroOrMore>
+                <element name="order_meta">
+                    <ref name="order_meta"/>
+                    <element name="orderdetail">
+                        <zeroOrMore>
+                        <element name="Orderdetails">
+                            <element name="OrderID">
+                                <data type="int"/>
+                            </element>
+                            <optional>
+                                <element name="OrderItems">
+                                    <ref name="OrderItems"/>
+                                </element>     
+                            <element name="Total">
+                                <data type="double"/>
+                            </element>
+                            </optional>
+                        </element>
+                        </zeroOrMore>
+                    </element>
+                    <element name="orderitems">
+                        <ref name="orderitems"/>
+                    </element>
+                    <element name="ingredients">
+                        <ref name="ingredients"/>
+                    </element>
+                </element>
+            </zeroOrMore>
+        </element>
+    </start>
+</grammar>
