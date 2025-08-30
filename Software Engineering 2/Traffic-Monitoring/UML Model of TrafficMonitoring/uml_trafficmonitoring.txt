@@ -1,0 +1,96 @@
+@startuml
+
+skin rose
+
+title Smart City Traffic Monitoring
+
+
+class "TrafficMonitoringApplication" as TMA {
+  + main(String[]): void
+}
+
+interface "Observer" as observer {
+  +void update(String event)
+}
+
+interface "Subject" as subject {
+  +void addObserver(Observer observer)
+  +void notifyObsercer(String event)
+}
+
+class "Device" as device {
+  +String name
+  +List<String> eventHistory
+  +public String getName()
+  +public void setName(String name)
+  +protected void addToEventHistory(String event)
+}
+
+class "PedestrianPresenceSensor" as PPS {
+  +private boolean pedestrianPresent
+  +public PedestrianPresenceSensor(String name)
+  +public void setPedestrianPresent(boolean presence)
+}
+
+class "ConsoleOutputObserver" as COO {
+  +public void update(String event)
+}
+
+class "FourWayTrafficLightSimulation" as FWTLS {
+  +public void simulate(int steps)
+}
+
+class "HistoryObserver" as HO {
+  +public void update(String event)
+  +public List<String> getHistory()
+}
+
+class "LightStatus" as LS {
+  +enum
+}
+
+class "SingleTrafficLightSimulation" as STLS {
+  +public void simulate(int steps)
+}
+
+class "TrafficLightSensorActuator" as TLSA {
+  +public void setLightStatus(LightStatus status)
+}
+
+class "TrafficMonitoringSystem" as TMS {
+  +private List<Observer> observers
+  +public void addObserver(Observer observer)
+  +public void notifyObservers(String event)
+}
+
+class "TrafficSimulation" as TS {
+  +protected void logSimulationEvent(String event)
+}
+
+class "VehiclePresenceSensor" as VPS {
+  +public void setVehiclePresent(boolean presence)
+}
+
+device <|-- PPS
+device <|-- TLSA
+device <|-- VPS
+
+observer <|-- COO
+observer <|-- HO
+
+subject -- observer : observers
+
+TS <|-- FWTLS
+TS <|-- STLS
+subject <|-- TMS
+subject <|-- TS
+
+TMA -- subject
+TMA -- device
+TLSA -- LS
+
+HO -- TMS : subject
+HO -- TS: subject
+
+COO -- TMS: subject
+COO - TS: subject
