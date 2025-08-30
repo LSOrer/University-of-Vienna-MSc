@@ -1,0 +1,95 @@
+#include "ADS_set.h"
+
+int main()
+{
+  ADS_set<int> s;
+  s.insert(1);
+  s.insert(2);
+  s.insert(3);
+  s.insert(4);
+  s.insert(5);
+  s.insert(6);
+  s.insert(7);
+
+
+  auto iterator = s.y(7);
+  while(iterator != s.end()){
+    std::cout << *(iterator++) << "\t";
+  }
+  
+  std::cout << std::endl << "*********** NEW ************" << std::endl;
+  ADS_set<int> t;
+  t.insert(1);
+  t.insert(2);
+  t.insert(3);
+  t.insert(4);
+  t.insert(5);
+  t.insert(6);
+
+  auto iterator_t = t.y(7);
+  std::cout << std::endl;
+  while(iterator_t != t.end()){
+    std::cout << *(iterator_t++) << "\t";
+  }
+
+  std::cout << std::endl << "*********** NEW ************" << std::endl;
+  ADS_set<int> t1;
+  t1.insert(1);
+  t1.insert(2);
+  t1.insert(3);
+  t1.insert(4);
+  t1.insert(5);
+
+  auto iterator_t1 = t1.y(7);
+  std::cout << std::endl;
+  while(iterator_t1 != t1.end()){
+    std::cout << *(iterator_t1++) << "\t";
+  }
+
+  std::cout << std::endl << "*********** NEW ************" << std::endl;
+  ADS_set<int> t2;
+  t2.insert(1);
+  t2.insert(2);
+  t2.insert(3);
+  t2.insert(4);
+
+  auto iterator_t2 = t2.y(7);
+  std::cout << std::endl;
+  while(iterator_t2 != t2.end()){
+    std::cout << *(iterator_t2++) << "\t";
+  }
+
+  std::cout << std::endl << "*********** NEW ************" << std::endl;
+  ADS_set<int> t3;
+  t3.insert(1);
+  t3.insert(2);
+  t3.insert(3);
+
+  auto iterator_t3 = t3.y(7);
+  std::cout << std::endl;
+  while(iterator_t3 != t3.end()){
+    std::cout << *(iterator_t3++) << "\t";
+  }
+
+  std::cout << std::endl << "*********** NEW ************" << std::endl;
+  ADS_set<int> t4;
+  t4.insert(1);
+  t4.insert(2);
+
+  auto iterator_t4 = t4.y(7);
+  std::cout << std::endl;
+  while(iterator_t4 != t4.end()){
+    std::cout << *(iterator_t4++) << "\t";
+  }
+
+  std::cout << std::endl << "*********** NEW ************" << std::endl;
+  ADS_set<int> t5;
+  t5.insert(1);
+
+  auto iterator_t5 = t5.y(7);
+  std::cout << std::endl;
+  while(iterator_t5 != t5.end()){
+    std::cout << *(iterator_t5++) << "\t";
+  }
+
+}
